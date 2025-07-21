@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Music Festival Schedule" />
+    <meta name="theme-color" content="#1a73e8" />
+    <link rel="manifest" href="./manifest.json" />
+	<link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="jquery.dataTables.min.css" />
+	<script src="jquery-3.7.0.min.js"></script>
+	<script src="jquery.dataTables.min.js"></script>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-title" content="Music Festival Schedule">
+	<meta name="application-name" content="Festival Schedule">
+
+	<link rel="apple-touch-startup-image" href="./apple_splash_2048.png" sizes="2048x2732" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_1668.png" sizes="1668x2224" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_1536.png" sizes="1536x2048" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_1125.png" sizes="1125x2436" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_1242.png" sizes="1242x2208" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_750.png" sizes="750x1334" />
+	<link rel="apple-touch-startup-image" href="./apple_splash_640.png" sizes="640x1136" />
+	
+	<link rel="apple-touch-icon" href="./favicon.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="./icon_x180.png" />
+	<link rel="apple-touch-icon" sizes="167x167" href="./icon_x167.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="./icon_x152.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="./icon_x120.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="./icon_x76.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="./icon_x57.png" />
+
+	<meta name="description" content="An unofficial app for planning your festival! Highlight your favourite artists, pick shows to go to, and track who you've already listened to. See counts of who you've seen the most and who you haven't seen yet!" />
+	<meta name="keywords" content="schedule, pwa, app, progressive web app, efmf, Edmonton, folk, music, fest, festival, artist, lineup, stage" />
+	<link rel="canonical" href="https://efmf2024.yamyam.ca/">
+
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Edmonton Folk Music Festival Scheduler">
+	<meta property="og:description" content="An unofficial app for planning your festival! Highlight your favourite artists, pick shows to go to, and track who you've already listened to. See counts of who you've seen the most and who you haven't seen yet!">
+	<meta property="og:image" content="https://efmf2024.yamyam.ca/banner.png">
+	<meta property="og:url" content="https://efmf2024.yamyam.ca/">
+
+	<meta name="twitter:card" content="https://efmf2024.yamyam.ca/banner.png">
+	<meta name="twitter:title" content="Edmonton Folk Music Festival Scheduler">
+	<meta name="twitter:description" content="An unofficial app for planning your festival! Highlight your favourite artists, pick shows to go to, and track who you've already listened to. See counts of who you've seen the most and who you haven't seen yet!">
+	<meta name="twitter:image" content="https://efmf2024.yamyam.ca/banner.png">
+
+
+    <title>Edmonton Folk Music Festival Scheduler</title>
+</head>
+<body>
+	<header>
+		<div id="installedStatus" class="hide"></div>
+		<div class="header" id="header">
+			<div id="nowHeader"><a href="" class="now">Now</a></div>
+		</div>
+	</header>
+    <main>
+        <section id="schedule-section">
+			<div class="schedule hide" id="schedule-2023-06-30">
+			   <div class="location-column favourites">
+					<div class="location-header">Favourites</div>
+					<div class="time-slot"></div>
+				</div>
+			</div>
+			<div class="popup" id="tipPopup"></div>
+            <!-- Time slots and schedule will be dynamically populated here -->
+        </section>
+		<section id="food-section" class="food hide">
+<div class="foodContainer">
+<div class="food">
+
+</div>
+</div>
+
+		</section>
+		<section id="artistList-section" class="hide">
+			<!-- This section is dynamically populated with the full list of artists, sortable by name or favourite instances.
+			It is where artists can be "Followed". -->
+		</section>
+		
+		<section id="about-section" class="hide">
+			
+		</section>
+          <section id="artists-section" class="hide">
+            <!-- Artists list will be dynamically populated here -->
+        </section>
+    </main>
+    <script src="app.js" type="module"></script>
+</body>
+</html>
