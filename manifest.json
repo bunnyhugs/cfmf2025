@@ -18,6 +18,12 @@
             "sizes": "1350x1800",
 			"form_factor": "narrow",
 			"label": "Schedule example"
+        },
+        {
+            "src": "./screenshotwide.png",
+            "sizes": "640x480",
+			"form_factor": "wide",
+			"label": "Schedule example"
         }
 	],
     "icons": [

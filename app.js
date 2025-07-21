@@ -1383,10 +1383,8 @@ async function getInstalledApps() {
 	// PWA install instructions
 	if ((getPWADisplayMode() == 'browser') && (!PWAisInstalled)) {
 		if (isChromeOnAndroid()) {
-			installedStatus.innerHTML = '<p>For the best experience, please add this to your home screen. None of your data or device information is accessed, and no information whatsoever is collected or sent. ' +
-										" You'll just have a faster, full-screen experience with less drain on battery and completely offline capability.</p>" +
-										'<p>Click the "Install" button or click the menu button <img src="./android-menu.png" alt="Chrome menu" /> and choose "Install App".</p><img src="./android-install.png" alt="Install on Android" />';
-			installedStatus.addEventListener('click', closeInstalledStatus); 
+			installedStatus.innerHTML = '<button id="install-button" label="Install to home screen" value="Install to home screen" raised="" onclick="installPrompt();">Install to home screen</button>';
+			//installedStatus.addEventListener('click', closeInstalledStatus); 
 			installedStatus.classList.remove("hide");
 		} else if (isSafariOnIOS()) {
 			installedStatus.innerHTML = '<p>For the best experience, please add this to your home screen. None of your data or device information is accessed, and no information whatsoever is collected or sent. ' +
