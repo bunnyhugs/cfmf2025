@@ -1,7 +1,7 @@
 {
-    "name": "Edmonton Folk Music Festival 2024 Schedule",
-    "short_name": "EFMF 2024 Schedule",
-	"description": "A schedule app for Edmonton Folk Music Festival 2024. Not affiliated with the festival.",
+    "name": "Calgary Folk Music Festival 2025 Schedule",
+    "short_name": "CFMF 2025 Schedule",
+	"description": "A schedule app for Calgary Folk Music Festival 2024. Not affiliated with the festival.",
 	"categories": ["events","music"],
 	"scope": "./",
     "start_url": "./index.html",
@@ -10,7 +10,7 @@
     "theme_color": "#1a73e8",
 	"related_applications": [{
 	   "platform": "webapp",
-	   "url": "https://efmf2024.yamyam.ca/manifest.json"
+	   "url": "https://cfmf2025.yamyam.ca/manifest.json"
 	}],
 	"screenshots": [
         {

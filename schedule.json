@@ -1,7 +1,7 @@
 {
   "2025-07-24": {
     "date": "Thu, Jul 24 2025",
-    "gate_open_time": "",
+    "gate_open_time": "2025-07-24T16:00:00",
     "schedule": {
       "239": {
         "showId": "239",
@@ -191,7 +191,7 @@
   },
   "2025-07-25": {
     "date": "Fri, Jul 25 2025",
-    "gate_open_time": "",
+    "gate_open_time": "2025-07-25T14:00:00",
     "schedule": {
       "105": {
         "showId": "105",
@@ -666,7 +666,7 @@
   },
   "2025-07-26": {
     "date": "Sat, Jul 26 2025",
-    "gate_open_time": "",
+    "gate_open_time": "2025-07-26T09:30:00",
     "schedule": {
       "110": {
         "showId": "110",
@@ -1957,7 +1957,7 @@
   },
   "2025-07-27": {
     "date": "Sun, Jul 27 2025",
-    "gate_open_time": "",
+    "gate_open_time": "2025-07-27T09:30:00",
     "schedule": {
       "128": {
         "showId": "128",
