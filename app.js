@@ -969,13 +969,13 @@ async function populateSchedule() {
 		schedule.appendChild(favouritesCol);
 
 		// populate each location column
-		const showLocations = utils.getSortedUniqueField(dayScheduleArray, "location");
+		const showLocations = utils.getSortedUniqueField(dayScheduleArray, "locationId");
 		// Retrieve and sort the keys of the dictionary
 		const sortedLocations = utils.getSortedUniqueFieldFromDict(locationData, 'locationId');
 
 		sortedLocations.forEach(locationId => {
 			const location = locationData[locationId];
-			if (showLocations.includes(location.name)) {
+			if (showLocations.includes(locationId)) {
 				const locationCol = buildEventsForLocation(locationId, startDate, startDateObj.getTime(), dayScheduleArray, false);
 				schedule.appendChild(locationCol);
 			}
