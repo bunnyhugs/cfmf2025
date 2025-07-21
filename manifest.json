@@ -1,7 +1,7 @@
 {
     "name": "Calgary Folk Music Festival 2025 Schedule",
     "short_name": "CFMF 2025 Schedule",
-	"description": "A schedule app for Calgary Folk Music Festival 2024. Not affiliated with the festival.",
+	"description": "A schedule app for Calgary Folk Music Festival 2025. Not affiliated with the festival.",
 	"categories": ["events","music"],
 	"scope": "./",
     "start_url": "./index.html",

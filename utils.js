@@ -127,7 +127,7 @@ export function exportLocalStorageToFile() {
 
         const a = document.createElement('a');
         a.href = url;
-        a.download = 'cfmf2024schedule.json';
+        a.download = 'cfmf2025schedule.json';
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);

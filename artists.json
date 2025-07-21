@@ -6,7 +6,7 @@
     "men": 2,
     "notMen": 2,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Maryem_Tollar_Al_Qawha_Folk_Alliance_2025_JE_7_A5719_cf593877a5.webp",
-    "image": "/img/al-qawha.webp",
+    "image": "./img/al-qawha.webp",
     "name": "Al Qahwa",
     "geo": "Toronto, ON",
     "socials": {
@@ -82,7 +82,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Aldean_Kheroufi_2024_6_4f658705e3.webp",
-    "image": "/img/aladean-kheroufi.webp",
+    "image": "./img/aladean-kheroufi.webp",
     "name": "Aladean Kheroufi",
     "geo": "Edmonton, AB",
     "socials": {
@@ -158,7 +158,7 @@
     "men": 3,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Bad_Bad_3d371b4534.webp",
-    "image": "/img/badbadnotgood.webp",
+    "image": "./img/badbadnotgood.webp",
     "name": "BADBADNOTGOOD",
     "geo": "Toronto, ON",
     "socials": {
@@ -195,7 +195,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Begonia_2_Credit_Alexander_Chua_0fb69195d5.webp",
-    "image": "/img/begonia.webp",
+    "image": "./img/begonia.webp",
     "name": "Begonia",
     "geo": "Winnipeg, MB",
     "socials": {
@@ -271,7 +271,7 @@
     "men": 0,
     "notMen": 2,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Bel_and_Quinn_c6c9692c2a.webp",
-    "image": "/img/bel-and-quinn.webp",
+    "image": "./img/bel-and-quinn.webp",
     "name": "Bel and Quinn",
     "geo": "Montreal, QC",
     "socials": {
@@ -347,7 +347,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_BILLIEZIZI_LRG_4682_09d33d235f.webp",
-    "image": "/img/billie-zizi.webp",
+    "image": "./img/billie-zizi.webp",
     "name": "Billie Zizi",
     "geo": "Edmonton, AB",
     "socials": {
@@ -423,7 +423,7 @@
     "men": 1,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Blue_Moon_Marquee_Hi_Res_standing_fd311d0f01.webp",
-    "image": "/img/blue-moon-marquee.webp",
+    "image": "./img/blue-moon-marquee.webp",
     "name": "Blue Moon Marquee",
     "geo": "Duncan, BC",
     "socials": {
@@ -512,7 +512,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Bria_Salmena_a5d7518803.webp",
-    "image": "/img/bria-salmena.webp",
+    "image": "./img/bria-salmena.webp",
     "name": "Bria Salmena",
     "geo": "Toronto, ON",
     "socials": {
@@ -588,7 +588,7 @@
     "men": 5,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_CAKE_1dd95f4081.webp",
-    "image": "/img/cake.webp",
+    "image": "./img/cake.webp",
     "name": "CAKE",
     "geo": "Sacramento, CA",
     "socials": {
@@ -625,7 +625,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Caracol_final_Par_Marie_Michele_Bouchard_21_01_25_da78e57f21.webp",
-    "image": "/img/caracol.webp",
+    "image": "./img/caracol.webp",
     "name": "Caracol",
     "geo": "Montreal, QC",
     "socials": {
@@ -701,7 +701,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Cedric_Lightning_08bd32d107.webp",
-    "image": "/img/cedric-lightning.webp",
+    "image": "./img/cedric-lightning.webp",
     "name": "Cedric Lightning",
     "geo": "Mohkinstsis",
     "socials": {
@@ -764,7 +764,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_CHRIS_PIERCE_2022_Mathieu_Bitton_T1340168_Edit_HR_1391cce1d9.webp",
-    "image": "/img/chris-pierce.webp",
+    "image": "./img/chris-pierce.webp",
     "name": "Chris Pierce",
     "geo": "Los Angeles, CA",
     "socials": {
@@ -840,7 +840,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Christopher_Gamble_947b301f59.webp",
-    "image": "/img/christopher-gamble.webp",
+    "image": "./img/christopher-gamble.webp",
     "name": "Christopher Gamble",
     "geo": "Calgary, AB",
     "socials": {
@@ -863,7 +863,7 @@
     "men": 9,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Cymande_MAIN_PRESS_SHOT_2024_d4423c59e4.webp",
-    "image": "/img/cymande.webp",
+    "image": "./img/cymande.webp",
     "name": "Cymande",
     "geo": "United Kingdom",
     "socials": {
@@ -913,7 +913,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Daby_Toure_sneakers_17_71b43d5a93.webp",
-    "image": "/img/daby-toure.webp",
+    "image": "./img/daby-toure.webp",
     "name": "Daby Touré",
     "geo": "Mauritania/Senegal/Montreal",
     "socials": {
@@ -1002,7 +1002,7 @@
     "men": 5,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_dengue_fever_03_photocredit_marc_walker_b351962e1d.webp",
-    "image": "/img/dengue-fever.webp",
+    "image": "./img/dengue-fever.webp",
     "name": "Dengue Fever",
     "geo": "Los Angeles, CA",
     "socials": {
@@ -1065,7 +1065,7 @@
     "men": 1,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Digging_Roots_745_3_b02f0be7b4.webp",
-    "image": "/img/digging-roots.webp",
+    "image": "./img/digging-roots.webp",
     "name": "Digging Roots",
     "geo": "Barrie, ON",
     "socials": {
@@ -1154,7 +1154,7 @@
     "men": 5,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_The_Dust_Collectors_theainsleychristineor_frecklefacemediaco_photography_Ainsley_Christine_Freckle_Face_Media_Co_134_69304d055c.webp",
-    "image": "/img/the-dust-collectors.webp",
+    "image": "./img/the-dust-collectors.webp",
     "name": "The Dust Collectors",
     "geo": "Calgary, AB",
     "socials": {
@@ -1217,7 +1217,7 @@
     "men": 5,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_El_Balcon_c0c423548f.webp",
-    "image": "/img/el-balcon.webp",
+    "image": "./img/el-balcon.webp",
     "name": "El Balcón",
     "geo": "Montreal, QC",
     "socials": {
@@ -1280,7 +1280,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Elisapie_601f5a6ca4.webp",
-    "image": "/img/elisapie.webp",
+    "image": "./img/elisapie.webp",
     "name": "Elisapie",
     "geo": "Montreal",
     "socials": {
@@ -1343,7 +1343,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Eliza_Mary_Doyle_a2dc2a2853.webp",
-    "image": "/img/eliza-mary-doyle.webp",
+    "image": "./img/eliza-mary-doyle.webp",
     "name": "Eliza Mary Doyle",
     "geo": "Saskatoon, SK",
     "socials": {
@@ -1419,7 +1419,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Emily_Wurramara_CREDIT_Claudia_Sangiorgi_Dalimore_0_2_1_b51dc889ae.webp",
-    "image": "/img/emily-wurramara.webp",
+    "image": "./img/emily-wurramara.webp",
     "name": "Emily Wurramara",
     "geo": "Australia",
     "socials": {
@@ -1482,7 +1482,7 @@
     "men": 4,
     "notMen": 2,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Empanadas_Ilegales_582aae7d83.webp",
-    "image": "/img/empanadas-ilegales.webp",
+    "image": "./img/empanadas-ilegales.webp",
     "name": "Empanadas Ilegales",
     "geo": "Vancouver, BC",
     "socials": {
@@ -1545,7 +1545,7 @@
     "men": 4,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Fruition_a1eead7db5.webp",
-    "image": "/img/fruition.webp",
+    "image": "./img/fruition.webp",
     "name": "Fruition",
     "geo": "Portland, OR",
     "socials": {
@@ -1608,7 +1608,7 @@
     "men": 5,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_The_Hearts_2024_3000px_04979fba41.webp",
-    "image": "/img/the-hearts.webp",
+    "image": "./img/the-hearts.webp",
     "name": "The Hearts",
     "geo": "Edmonton, AB",
     "socials": {
@@ -1684,7 +1684,7 @@
     "men": 1,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_THH_Press_Photo_3_square_web_rez_Credit_Nicholas_O_Donnell_99a89ba07c.webp",
-    "image": "/img/the-heavy-heavy.webp",
+    "image": "./img/the-heavy-heavy.webp",
     "name": "The Heavy Heavy",
     "geo": "United Kingdom",
     "socials": {
@@ -1734,7 +1734,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Human_Interest_Col_Cseke_49ad0559d1.webp",
-    "image": "/img/human-interest-with-col-cseke.webp",
+    "image": "./img/human-interest-with-col-cseke.webp",
     "name": "Human Interest with Col Cseke",
     "geo": "Calgary, AB",
     "socials": {
@@ -1784,7 +1784,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Jairus_Sharif_aabf98ac80.webp",
-    "image": "/img/jairus-sharif.webp",
+    "image": "./img/jairus-sharif.webp",
     "name": "Jairus Sharif",
     "geo": "Calgary, AB",
     "socials": {
@@ -1860,7 +1860,7 @@
     "men": 4,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Jake_Vaadeland_a24b266ada.webp",
-    "image": "/img/jake-vaadeland.webp",
+    "image": "./img/jake-vaadeland.webp",
     "name": "Jake Vaadeland & The Sturgeon River Boys",
     "geo": "Saskatchewan",
     "socials": {
@@ -1923,7 +1923,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Jennifer_Castle_9a413d688a.webp",
-    "image": "/img/jennifer-castle.webp",
+    "image": "./img/jennifer-castle.webp",
     "name": "Jennifer Castle",
     "geo": "Toronto, ON",
     "socials": {
@@ -1999,7 +1999,7 @@
     "men": 3,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Jolie_Laide_f82c36ff30.webp",
-    "image": "/img/jolie-laide.webp",
+    "image": "./img/jolie-laide.webp",
     "name": "Jolie Laide",
     "geo": "Calgary/Seattle",
     "socials": {
@@ -2088,7 +2088,7 @@
     "men": 2,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Jon_Mc_Kiel_fd7dfaff14.webp",
-    "image": "/img/jon-mckiel.webp",
+    "image": "./img/jon-mckiel.webp",
     "name": "Jon McKiel",
     "geo": "Baie Verte, NB",
     "socials": {
@@ -2164,7 +2164,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Katie_Tupper_11404e2e2b.webp",
-    "image": "/img/katie-tupper.webp",
+    "image": "./img/katie-tupper.webp",
     "name": "Katie Tupper",
     "geo": "Saskatoon, SK",
     "socials": {
@@ -2227,7 +2227,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Katy_Kirby_4971f1e263.webp",
-    "image": "/img/katy-kirby.webp",
+    "image": "./img/katy-kirby.webp",
     "name": "Katy Kirby",
     "geo": "Brooklyn, NY",
     "socials": {
@@ -2303,7 +2303,7 @@
     "men": 3,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_LA_LOM_32425fae73.webp",
-    "image": "/img/la-lom.webp",
+    "image": "./img/la-lom.webp",
     "name": "LA LOM",
     "geo": "Los Angeles, CA",
     "socials": {
@@ -2353,7 +2353,7 @@
     "men": 3,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Langan_Band_Americana_Fest_2024_JE_7_A5955_a83c8614b5.webp",
-    "image": "/img/the-langan-band.webp",
+    "image": "./img/the-langan-band.webp",
     "name": "The Langan Band",
     "geo": "Scotland",
     "socials": {
@@ -2416,7 +2416,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Laura_Hickli_Idle_Eyes_Jul_1_2024_GHS_10a_crpa_1_8c9afe9f61.webp",
-    "image": "/img/laura-hickli.webp",
+    "image": "./img/laura-hickli.webp",
     "name": "Laura Hickli",
     "geo": "Calgary, AB",
     "socials": {
@@ -2492,7 +2492,7 @@
     "men": 1,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Les_Mamans_du_Congo_x_Rrobin_c84aff203a.webp",
-    "image": "/img/les-mamans-du-congo-x-rrobin.webp",
+    "image": "./img/les-mamans-du-congo-x-rrobin.webp",
     "name": "Les Mamans du Congo x Rrobin",
     "geo": "Republic of Congo",
     "socials": {
@@ -2555,7 +2555,7 @@
     "men": 5,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Los_Lobos_4e087378a4.webp",
-    "image": "/img/los-lobos.webp",
+    "image": "./img/los-lobos.webp",
     "name": "Los Lobos",
     "geo": "Los Angeles, CA",
     "socials": {
@@ -2592,7 +2592,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_MADELEINE_PEYROUX_38061_YANN_ORHAN_6302e1b2a2.webp",
-    "image": "/img/madeleine-peyroux.webp",
+    "image": "./img/madeleine-peyroux.webp",
     "name": "Madeleine Peyroux",
     "geo": "Kingston, NY",
     "socials": {
@@ -2642,7 +2642,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Untitled_24759b9338.webp",
-    "image": "/img/maia-davies.webp",
+    "image": "./img/maia-davies.webp",
     "name": "Maïa Davies",
     "geo": "Montreal, QC",
     "socials": {
@@ -2705,7 +2705,7 @@
     "men": 0,
     "notMen": 4,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Medusa_234_Jen_Squires_eb5cba2b8e.webp",
-    "image": "/img/medusa.webp",
+    "image": "./img/medusa.webp",
     "name": "Medusa",
     "geo": "Toronto, ON",
     "socials": {
@@ -2781,7 +2781,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_MK_2025_Approved_Photo_fbbefa8ff4.webp",
-    "image": "/img/michael-kiwanuka.webp",
+    "image": "./img/michael-kiwanuka.webp",
     "name": "Michael Kiwanuka",
     "geo": "United Kingdom",
     "socials": {
@@ -2818,7 +2818,7 @@
     "men": 5,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Montuno_West_Promo_Photo_7c9854ed51.webp",
-    "image": "/img/montuno-west.webp",
+    "image": "./img/montuno-west.webp",
     "name": "Montuno West",
     "geo": "Calgary/Edmonton, AB",
     "socials": {
@@ -2894,7 +2894,7 @@
     "men": 2,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Moontricks_08_21_Promo_Louis_Bockner_8102299_5b4fbca56b.webp",
-    "image": "/img/moontricks.webp",
+    "image": "./img/moontricks.webp",
     "name": "Moontricks",
     "geo": "Kootenays, BC",
     "socials": {
@@ -2957,7 +2957,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Nick_Shoulders_for_Wass_ddad50c817.webp",
-    "image": "/img/nick-shoulders.webp",
+    "image": "./img/nick-shoulders.webp",
     "name": "Nick Shoulders",
     "geo": "Arkansas",
     "socials": {
@@ -3046,7 +3046,7 @@
     "men": 1,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Ocie_Elliott_Promo_Photo3_2023_Kelly_Lovett_ec1d9a6ff5.webp",
-    "image": "/img/ocie-elliott.webp",
+    "image": "./img/ocie-elliott.webp",
     "name": "Ocie Elliott",
     "geo": "Victoria, BC",
     "socials": {
@@ -3109,7 +3109,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_000167460036_cb1a1902bb.webp",
-    "image": "/img/olive-klug.webp",
+    "image": "./img/olive-klug.webp",
     "name": "Olive Klug",
     "geo": "Portland",
     "socials": {
@@ -3172,7 +3172,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Pahua_Temp_d64f87b76c.webp",
-    "image": "/img/pahua.webp",
+    "image": "./img/pahua.webp",
     "name": "Pahua",
     "geo": "Mexico",
     "socials": {
@@ -3248,7 +3248,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Patrick_Watson_896351f328.webp",
-    "image": "/img/patrick-watson.webp",
+    "image": "./img/patrick-watson.webp",
     "name": "Patrick Watson",
     "geo": "Montreal, QC",
     "socials": {
@@ -3285,7 +3285,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Ruby_Waters_27fdd6506d.webp",
-    "image": "/img/ruby-waters.webp",
+    "image": "./img/ruby-waters.webp",
     "name": "Ruby Waters",
     "geo": "Shelburne, ON",
     "socials": {
@@ -3335,7 +3335,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_shainahayes_credit_lawrencefafard_9_1696016179_b0ad307389.webp",
-    "image": "/img/shaina-hayes.webp",
+    "image": "./img/shaina-hayes.webp",
     "name": "Shaina Hayes",
     "geo": "Montreal, QC",
     "socials": {
@@ -3411,7 +3411,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Sierra_Ferrell_1459b60b0d.webp",
-    "image": "/img/sierra-ferrell.webp",
+    "image": "./img/sierra-ferrell.webp",
     "name": "Sierra Ferrell",
     "geo": "Charleston, WV",
     "socials": {
@@ -3448,7 +3448,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Skinny_Claresholm_1_6b76489d94.webp",
-    "image": "/img/skinny-dyck.webp",
+    "image": "./img/skinny-dyck.webp",
     "name": "Skinny Dyck",
     "geo": "Lethbridge, AB",
     "socials": {
@@ -3524,7 +3524,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_SA_2023_7527_select_13287c52da.webp",
-    "image": "/img/st-arnaud.webp",
+    "image": "./img/st-arnaud.webp",
     "name": "St.Arnaud",
     "geo": "Edmonton, AB",
     "socials": {
@@ -3600,7 +3600,7 @@
     "men": 5,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_starpainter_c1a5b46ebc.webp",
-    "image": "/img/starpainter.webp",
+    "image": "./img/starpainter.webp",
     "name": "Starpainter",
     "geo": "Lethbridge, AB",
     "socials": {
@@ -3676,7 +3676,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_SD_16_Photo_Credit_Laura_E_Partain_95f93814e0.webp",
-    "image": "/img/steve-dawson-and-the-hooded-mergansers.webp",
+    "image": "./img/steve-dawson-and-the-hooded-mergansers.webp",
     "name": "Steve Dawson and The Hooded Mergansers",
     "geo": "Nashville",
     "socials": {
@@ -3752,7 +3752,7 @@
     "men": 6,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Steve_Earle_Reckless_Mishmash_copy_753bc35f16.webp",
-    "image": "/img/steve-earle-and-reckless-kelly.webp",
+    "image": "./img/steve-earle-and-reckless-kelly.webp",
     "name": "Steve Earle and Reckless Kelly",
     "geo": "Texas, New York",
     "socials": {
@@ -3789,7 +3789,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Susan_O_Neill_ac7b8db9a9.webp",
-    "image": "/img/susan-o-neill.webp",
+    "image": "./img/susan-o-neill.webp",
     "name": "Susan O'Neill",
     "geo": "Ireland",
     "socials": {
@@ -3865,7 +3865,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_tall_tall_trees_9_19_109_2_1_2087e40ced.webp",
-    "image": "/img/tall-tall-trees.webp",
+    "image": "./img/tall-tall-trees.webp",
     "name": "Tall Tall Trees",
     "geo": "Asheville",
     "socials": {
@@ -3941,7 +3941,7 @@
     "men": 4,
     "notMen": 2,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Tamar_Ilana_and_Ventanas_38fc0d00da.webp",
-    "image": "/img/tamar-ilana-and-ventanas.webp",
+    "image": "./img/tamar-ilana-and-ventanas.webp",
     "name": "Tamar Ilana & Ventanas",
     "geo": "Toronto, ON",
     "socials": {
@@ -4017,7 +4017,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_IMG_0431_47a9b66496.webp",
-    "image": "/img/tim-williams.webp",
+    "image": "./img/tim-williams.webp",
     "name": "Tim Williams",
     "geo": "Calgary, AB",
     "socials": {
@@ -4093,7 +4093,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Veronica_Blackhawk_31_737d569443.webp",
-    "image": "/img/tinge.webp",
+    "image": "./img/tinge.webp",
     "name": "Tinge",
     "geo": "Winnipeg",
     "socials": {
@@ -4169,7 +4169,7 @@
     "men": 0,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Tribe_Artist_Society_c1632ecbeb.webp",
-    "image": "/img/tribe-artist-society.webp",
+    "image": "./img/tribe-artist-society.webp",
     "name": "Tribe Artist Society",
     "geo": "Calgary, AB",
     "socials": {
@@ -4219,7 +4219,7 @@
     "men": 3,
     "notMen": 2,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_VIIK_Photo_Credit_Kristian_Gade_2024_LARGE_ee7b3b7172.webp",
-    "image": "/img/viik.webp",
+    "image": "./img/viik.webp",
     "name": "VÍÍK",
     "geo": "Denmark",
     "socials": {
@@ -4295,7 +4295,7 @@
     "men": 1,
     "notMen": 0,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Willi_Carlisle_5b463fe1bb.webp",
-    "image": "/img/willi-carlisle.webp",
+    "image": "./img/willi-carlisle.webp",
     "name": "Willi Carlisle",
     "geo": "Kansas",
     "socials": {
@@ -4358,7 +4358,7 @@
     "men": 0,
     "notMen": 1,
     "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Yasmin_Williams_48369e30fa.webp",
-    "image": "/img/yasmin-williams.webp",
+    "image": "./img/yasmin-williams.webp",
     "name": "Yasmin Williams",
     "geo": "Woodbridge, VA",
     "socials": {
