@@ -978,6 +978,9 @@ img.artistCardIcon {
 span.eventTime {
 	font-weight: 700;
 }
+span.eventLocation::before {
+	content: " • ";
+}
 
 #artistTable div.artistSchedule {
 	padding-top: 10px;
