@@ -258,6 +258,12 @@ function generateArtistSchedule(artist) {
 					eventType.innerHTML = `: ${utils.capitalizeFirstLetter(event.type)}`;
 				}
 			}
+
+			const eventLocation = document.createElement('span');
+			eventLocation.classList.add("eventLocation");
+			artistScheduleDiv.appendChild(eventLocation);
+			eventLocation.innerHTML = event.location;
+
 			if (index !== artist.artistSchedule.length - 1) {
 				artistScheduleDiv.appendChild(document.createElement('br'));
 			 }
