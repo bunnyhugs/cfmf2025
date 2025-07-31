@@ -20,13 +20,13 @@ day_to_date_file = {
 }
 
 # Read artists.json
-with open("artists.json", "r", encoding="utf-8") as f:
+with open("artists-step1.json", "r", encoding="utf-8") as f:
     artists_data = json.load(f)
 
 # Helper to find artist slug by name
 def get_artist_slug(name):
     name = name.strip().rstrip(" •")
-    for artist in artists_data:
+    for artist in artists_data.values():
         if artist["name"].strip() == name:
             return artist["slug"]
     return None
