@@ -1,7 +1,7 @@
 {
   "al-qawha": {
     "artistId": 0,
-    "url": "https://calgaryfolkfest.com//artists/al-qawha",
+    "url": "https://calgaryfolkfest.com/artists/al-qawha",
     "slug": "al-qawha",
     "men": 0,
     "notMen": 0,
@@ -10,6 +10,7 @@
     "name": "Al Qahwa",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/al-qawha",
       "website": "https://mgam.com/al-qahwa/",
       "facebook": "https://www.facebook.com/alqahwaensemble",
       "instagram": "https://www.instagram.com/qahwa4/",
@@ -23,7 +24,7 @@
   },
   "aladean-kheroufi": {
     "artistId": 1,
-    "url": "https://calgaryfolkfest.com//artists/aladean-kheroufi",
+    "url": "https://calgaryfolkfest.com/artists/aladean-kheroufi",
     "slug": "aladean-kheroufi",
     "men": 0,
     "notMen": 0,
@@ -32,6 +33,7 @@
     "name": "Aladean Kheroufi",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/aladean-kheroufi",
       "website": null,
       "facebook": "https://www.facebook.com/AladeanKheroufi/",
       "instagram": "https://www.instagram.com/a.d.kheroufi/",
@@ -43,9 +45,32 @@
     },
     "bio": "<div class=\"wysiwyg\"><p>If subtlety were currency, Aladean Kheroufi would be swimming in wealth. There’s an assured depth in Kheroufi’s lounge-bound soul, awash in a dreamy, retro vibe that spans the history of soul, funk and rhythm and blues, with updates on the ’60s/’70s soul sounds that are respectful of the past, while adding elements to keep it fresh and vital.</p><p>Beginning his career in the early 2010s as one of Edmonton’s most sought-after bass players, Kheroufi began producing and releasing singles in 2020. He established his sound on grooves reminiscent of early Motown with lean instrumental arrangements that focused on keeping the pocket tight with mixes that reveled in nuance, emphasizing harmony over flash. On Kheroufi’s latest release, Studies In A Dying Love, he expands on his sparing production with fuller arrangements and short bursts of psychedelic experimentation. It’s Kheroufi’s most expansive sonic project to date, and the results are stellar, crafting a sound that borrows from multiple eras and adds a garage aesthetic that holds in an ultra-natural atmosphere.</p><p>When you’re a musician who can do almost anything instrumentally, the big challenge becomes knowing how to pull back and keep things subtle, recognizing that creating a distinctive sound is often more valuable than showing off. Aladean Kheroufi has all the skills to pay the bills, but his mark as an artist and producer is in his ability to produce with taste and subtlety, finding the magic in leaving spaces for the audience’s imagination to fill.</p><p>- Mike Dunn</p></div>"
   },
-  "badbadnotgood": {
+  "arrested-development": {
     "artistId": 2,
-    "url": "https://calgaryfolkfest.com//artists/badbadnotgood",
+    "url": "https://calgaryfolkfest.com/artists/arrested-development",
+    "slug": "arrested-development",
+    "men": 0,
+    "notMen": 0,
+    "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Arrested_Photo_32152f994e.webp",
+    "image": "/img/arrested-development.webp",
+    "name": "Arrested Development",
+    "geo": "Atlanta, GA",
+    "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/arrested-development",
+      "website": "https://www.arresteddevelopmentmusic.com/",
+      "facebook": "https://www.facebook.com/OfficialArrestedDevelopment",
+      "instagram": "https://www.instagram.com/arresteddevelopment__",
+      "spotify": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7?si=VKaQ7BBPT4SVHjEBAEvNOQ",
+      "itunes": null,
+      "twitter": "https://twitter.com/calgaryfolkfest",
+      "bandcamp": null,
+      "youtube": "https://www.youtube.com/channel/UCyGq8IpCzBL8BgYI91X8Fwg"
+    },
+    "bio": "<div class=\"wysiwyg\"><p>Arrested Development have been hip hop trailblazers and cultural champions of consciousness and empowerment across the planet since 1991. Their representation of eclectic and vibrant African sounds and clothing has produced a unique clash of rhythms and style that continue to contrast the expected look and sound of hip hop culture.</p><p>Their just released (July 4) album Adult Contemporary Hip Hop, co-executive produced by band leader/founder Speech &amp; boom-bap specialist Configa, is a celebration and a challenge — reflecting on freedom, self-determination and the contradictions still woven into Black American life.</p><p>Dedicated to the late Twan Mack, the album takes its title from a mantra he lived by — and transforms it into a bold, grown, and deeply soulful statement. This marks the fourth consecutive Arrested Development project co-executive produced by the two, creating continuing a creative partnership that has helped shape the group’s modern resurgence.</p><p>This time, the album features very few outside features — the focus being on the AD family: Frontman Speech, 1Love, Tasha LaRae, and Fareedah, with extended kin Ke’Andra and Bee Taylor. Music production is led by Speech and Configa, with additional contributions from MRK SX and Ben Marc. Lyrically rich and sonically grounded, the project capturing a cohesive, soulful sound rooted in classic hip-hop aesthetics. It explores melanin pride, the world: mortality, relationships, love, legacy, and bar-for-bar energy — all underpinned by the timeless rhythms of boom-bap.</p><p>Adult Contemporary hip hop isn’t just a tribute — it’s a continuation. Of family. Of message. Of real hip-hop.</p></div>"
+  },
+  "badbadnotgood": {
+    "artistId": 3,
+    "url": "https://calgaryfolkfest.com/artists/badbadnotgood",
     "slug": "badbadnotgood",
     "men": 0,
     "notMen": 0,
@@ -54,6 +79,7 @@
     "name": "BADBADNOTGOOD",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/badbadnotgood",
       "website": "https://badbadnotgood.com/",
       "facebook": "https://www.facebook.com/people/BADBADNOTGOOD/100044172502285/",
       "instagram": "https://www.instagram.com/badbadnotgood/",
@@ -66,8 +92,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>BADBADNOTGOOD will perform Friday, July 25. </strong></p><p>From the outset of their coming together in Toronto’s 2010’s jazz scene, the trio of Chester Hansen, Matthew Tavares and Alex Sowinski (joined by saxophonist Leland Whitty in 2016) have seldom travelled one path. The group is musically ambitious, marrying improvisational jazz to hip-hop and electronic beats. As they’ve deftly navigated this combination, they have drawn the attention of a dizzying list of collaborators. From the unlikely – Iggy Pop, for instance – to the zeitgeist shaper Kendrick Lamar, to critically acclaimed underground figures, with previous work with MF Doom and continued collaboration with Flying Lotus. Artists, including fellow CFMF performer Bria Salmena, who are now finding their voice, have been aided by BADBADNOTGOOD’s unique sound. And while BADBADNOTGOOD’s repertoire has made them a highly sought after contributor to the sounds of others, their live performances prove to define them. Unpredictable, but in full control of the styles and sounds they bring together, BADBADNOTGOOD’s performances are made to engage, challenge and entrance audiences. Bringing a savvy energy to the stage, the band’s artistry has become a singular experience that fans across the country and around the world can attest to\n\n- Derek McEwen</p><br/></div>"
   },
   "begonia": {
-    "artistId": 3,
-    "url": "https://calgaryfolkfest.com//artists/Begonia",
+    "artistId": 4,
+    "url": "https://calgaryfolkfest.com/artists/Begonia",
     "slug": "begonia",
     "men": 0,
     "notMen": 0,
@@ -76,6 +102,7 @@
     "name": "Begonia",
     "geo": "Winnipeg, MB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Begonia",
       "website": "https://www.hellobegonia.com/",
       "facebook": "https://www.facebook.com/hellobegonia/",
       "instagram": "https://www.instagram.com/hellobegonia/?hl=en",
@@ -88,8 +115,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Begonia is the thinking woman’s pop princess whose carefully crafted aesthetic combines deconstructed glamour and handsome hedonism. Though not as demure as the flowery name might suggest, Begonia retains a lyrical sincerity and persona-breaking adorability that betrays the maximalism of the pop presentation. With lyrics about holding hands at the hot dog stand, or having a wedding presided over by Elvis, Begonia has that ‘Drag Queen Next Door’ quality.</p><p>2022’s Powder Blue featured a series of lavish, bass-guitar and synth-driven tracks; pop with a capital P, but lovingly analog soundscapes on which Begonia hangs her shimmering moo-moos. Her latest, Open Swim (2024), produced by Alexa Dirks and Marcus Paquin (The National, The Weather Station, Arcade Fire) encompasses the feeling of working through conflict and the elation that can surface when you’re honest with others and ultimately yourself.  Two Juno and two Polaris prize nominations under her belt,  Begonia’s off-kilter pop compositions are syrupy enough to feel like guilty pleasures but matriculated enough to sometimes struggle to count along to. </p><p>- Liam Prost</p></div>"
   },
   "bel-and-quinn": {
-    "artistId": 4,
-    "url": "https://calgaryfolkfest.com//artists/bel-and-quinn",
+    "artistId": 5,
+    "url": "https://calgaryfolkfest.com/artists/bel-and-quinn",
     "slug": "bel-and-quinn",
     "men": 0,
     "notMen": 0,
@@ -98,6 +125,7 @@
     "name": "Bel and Quinn",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/bel-and-quinn",
       "website": "https://www.belandquinn.com/",
       "facebook": "https://www.facebook.com/BelandQuinn/",
       "instagram": "https://www.instagram.com/bel_quinn/?hl=fr",
@@ -110,8 +138,8 @@
     "bio": "<div class=\"wysiwyg\"><p>The music world has taught us that brothers often make terrible bandmates. But sisters? If Montreal’s Bel and Quinn are any indication, a sisterly connection can be the key to flawless musical harmony.</p><p>The sisters are of Haitian origin and that background, combined with experiences in the bustling multi-disciplinary Montreal music scene, helped them to create a distinctive style that draws on Haitian music, soul, jazz and funk, while singing in French, English and Creole. They’re nicknamed “The Soul Sisters” for good reason — the two women’s voices blend together seamlessly with a remarkable smoothness that intermingles with the guitars, horns and gentle rhythms of their songs. Each sister plays a unique role in the pairing: Bel is the duo’s lyricist while Quinn is an accomplished jazz guitar player, also composing and arranging the music.</p><p>While it would be perfectly natural to just sway along to that wash of sound, audiences should also pay attention to those lyrics: as Black women in the Canadian music industry, Bel and Quinn have a lot to say. They channel experiences with sexism and discrimination into their songs, also regularly touching on topics like mental health and struggles with anxiety and depression. Determined to act as leaders in a male-dominated field, Bel and Quinn also hire skilled women musicians to accompany them on stage and in the studio, bringing a celebration of healing and feminine power to every one of their live shows.</p><p>- Elizabeth Chorney-Booth</p><br/></div>"
   },
   "billie-zizi": {
-    "artistId": 5,
-    "url": "https://calgaryfolkfest.com//artists/billie-zizi",
+    "artistId": 6,
+    "url": "https://calgaryfolkfest.com/artists/billie-zizi",
     "slug": "billie-zizi",
     "men": 0,
     "notMen": 0,
@@ -120,6 +148,7 @@
     "name": "Billie Zizi",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/billie-zizi",
       "website": "https://billiezizi.com/",
       "facebook": "https://www.facebook.com/Billie-Zizi-305531666151305/?ref=aymt_homepage_panelhttp://www.facebook.com/",
       "instagram": "https://www.instagram.com/billiezizi/?hl=en",
@@ -132,8 +161,8 @@
     "bio": "<div class=\"wysiwyg\"><p>It’s the rare mark of an artist so fully devoted to their craft that they develop a unique voice in their youth. Edmonton’s Billie Zizi deftly combines the groove of classic soul with a flair for contemporary R&amp;B melody, adding a certain avant-jazz vibe with her guitar forays to create a sound as accessible as it is experimental.</p><p>Her most recent release, Levitate, produced by Winnipeg’s brilliant guitarist Austin Parachoniak, adds new elements of avant-garde country in Zizi’s melange of folk, jazz and pop, bringing a sonic element that touches on the traditional and brings a wistful air to her breezy vocals. Zizi’s willingness to venture into textural guitar adventures remains, never straying far from melody, like adventures unto themselves. Straightforward verses find themselves veering into sudden stops and changes in time that showcase her careful craft in building arrangements.</p><p>Billie Zizi breathes musical life and light into the offbeat souls and gritty character of her city, creating an atmosphere that accompanies a day spent people watching on the streets as easily as it does lying on your back in the park on a sunny day watching clouds drift across the pale blue sky.</p><p>- Mike Dunn</p></div>"
   },
   "blue-moon-marquee": {
-    "artistId": 6,
-    "url": "https://calgaryfolkfest.com//artists/blue-moon-marquee",
+    "artistId": 7,
+    "url": "https://calgaryfolkfest.com/artists/blue-moon-marquee",
     "slug": "blue-moon-marquee",
     "men": 0,
     "notMen": 0,
@@ -142,6 +171,7 @@
     "name": "Blue Moon Marquee",
     "geo": "Duncan, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/blue-moon-marquee",
       "website": "https://bluemoonmarquee.com/",
       "facebook": "https://www.facebook.com/bluemoonmarquee/",
       "instagram": "https://www.instagram.com/bluemoonmarquee/",
@@ -154,8 +184,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Blue Moon Marquee will perform Saturday, July 26.</strong></p><p>Few bands are as well-travelled as duo Blue Moon Marquee, having shaken the dance floors of juke joints throughout Canada, the United States and Europe with their energetic brand of jump blues. A lean and muscular operation, A.W. Cardinal and Jass Collette are true believers, having so thoroughly absorbed the sounds of classic blues styles that their performances and records often feel torn from a different time.</p><p>Their latest full-length album, New Orleans Sessions, finds the duo adding saxophone and piano with a live-off-the-floor feel full of swagger and vigour, lyrically elemental, finding the sweaty, smoky vibe of an old roadhouse. In 2025, they continued their streak of Juno Award wins for Blues Album Of The Year that began in 2024 with their previous release, 2022’s Scream, Holler &amp; Howl. That album saw their years of hard touring and growth win them well-deserved acclaim with awards and nominations across the Canadian music industry. Scream, Holler &amp; Howl swept multiple Maple Blues Awards categories.</p><p>Relentlessly energetic, Blue Moon Marquee keep it as real as it gets, playing a brand of blues that honours the roots of electric music: rowdy and sultry, smoky and whiskey-soaked. Blue Moon Marquee’s deeply authentic sound begs you to close your eyes for just a second and picture yourself in another time and place: a humid, barely-lit, tiny room, with two crooners around a single microphone driving the whole joint into a lather with wild abandon.</p><p>- Mike Dunn</p><br/><br/></div>"
   },
   "bria-salmena": {
-    "artistId": 7,
-    "url": "https://calgaryfolkfest.com//artists/bria-salmena",
+    "artistId": 8,
+    "url": "https://calgaryfolkfest.com/artists/bria-salmena",
     "slug": "bria-salmena",
     "men": 0,
     "notMen": 0,
@@ -164,6 +194,7 @@
     "name": "Bria Salmena",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/bria-salmena",
       "website": "https://www.briasalmena.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/briasalmena",
@@ -176,8 +207,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Bria Salmena will perform Friday, July 25. </strong></p><p>It’s not surprising that Bria Salmena easily moves between country to darkwave, singer-songwriter and punk vibes, sometimes in a single song, given that earlier musical forays include being the frontwoman of Canadian post-punk outfit FRIGS and vocalist in Orville Peck’s live band. Salmena culminates her artistic evolution on her solo debut album Big Dog, which chronicles her transformation, resilience and collaboration. Writing and recording it helped Salmena dig herself out of a dark period. It’s replete with big emotions and ambitions as she seemingly bends sounds and genres to her will. Slowly but subtly, her confident voice and intriguing arrangements become something you can’t quite put your finger on, with a sophisticated and sometimes uncanny sound that hovers between gritty punk honesty and gleaming atmospherics. Amidst this sonic landscape is Salmena’s potent lyrical imagery and tender, raw, defiant vocals. Producer and multi-instrumentalist Duncan Hay Jennings (who helped give classic and modern Americana songs a goth-y dream pop treatment on both of Salmena’s Cuntry Covers EPs), along with Graham Walsh (Holy F**k, Debby Friday, Alvvays) helped further refine the sounds, while U.S. Girls’ Meg Remy pushed Salmena to dig into the meaning of her lyrics and think about different ways of using her voice.</p><p>- Kerry Clarke</p></div>"
   },
   "cake": {
-    "artistId": 8,
-    "url": "https://calgaryfolkfest.com//artists/Cake",
+    "artistId": 9,
+    "url": "https://calgaryfolkfest.com/artists/Cake",
     "slug": "cake",
     "men": 0,
     "notMen": 0,
@@ -186,6 +217,7 @@
     "name": "CAKE",
     "geo": "Sacramento, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Cake",
       "website": "https://www.cakemusic.com/",
       "facebook": "https://www.facebook.com/cakemusic/",
       "instagram": "https://www.instagram.com/thebandcake/",
@@ -198,8 +230,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>CAKE will perform Sunday, July 27.</strong></p><p>Reveling in idiosyncrasy and defying musical trends, CAKE broke through in 1996 as a somewhat antagonistic answer to grunge. Their defiant self-reliance and lucid yet inventive music sets them apart from peers in sound and perspective.  </p><p>Their sophomore LP, <em>Fashion Nugget,</em> positioned the band as an unlikely standard-bearer for what might be affectionately dubbed “geek rock.”  CAKE followed up with the cheekily-titled <em>Prolonging the Magic</em> replete with many signature elements: the pumping bass and funky drum groove, surfy, staccato guitar riffs, and John McCrea’s deadpan vocal that, while nonchalant, nonetheless feels earnest and connected. They continued to produce new records into the early 2000s, hitting a peak with 2001’s <em>Comfort Eagle</em>. CAKE recently performed a live video cut for Texas Public Radio of “Billionaire In Space” from their forthcoming ninth album. It’s full of classic biting wit and sarcasm as it’s about being left behind and an observation about the economic imbalance that we have been lulled into accepting as the norm. They also contributed a new song — “Hold You (Responsible)” — to the compilation album <em>SONGS FOR SEX</em>, an artistic response to Project 2025 that stands up for bodily autonomy, reproductive freedoms and personal privacy. </p><p>While other bands of the time may have succumbed to external or internal forces or devolved into self-parody, CAKE has avoided self-indulgence, maintaining the humorous irony integral to their sound.</p><p>- Mike Dunn</p></div>"
   },
   "caracol": {
-    "artistId": 9,
-    "url": "https://calgaryfolkfest.com//artists/caracol",
+    "artistId": 10,
+    "url": "https://calgaryfolkfest.com/artists/caracol",
     "slug": "caracol",
     "men": 0,
     "notMen": 0,
@@ -208,6 +240,7 @@
     "name": "Caracol",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/caracol",
       "website": null,
       "facebook": "https://www.facebook.com/caracolmusic/",
       "instagram": "http://instagram.com/caracolmusic",
@@ -220,8 +253,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Bilingual songwriter/producer Caracol was born into a musical family, with an Uruguayan father and a Swiss mother. Her journey began at 12 years with classical violin training prior to playing electric guitar in punk bands as a teenager while she started experimenting with songwriting. After a few years on the road as a semi-professional snowboarding athlete, she settled in Montreal where she studied sound design and then landed a job as an assistant sound engineer, acquiring precious knowledge about recording, post-production and film music. Her solo career began after exiting the global music-inspired percussion/vocal eponymous duo Dobacaracol. In and around releasing four albums, she has penned songs for winners of the talent contest La Voix plus over half of New Brunswick singer David Myles’ Francophone album. Her atypical journey captivates listeners with a sonic hybrid of electro pop-tinged folk, cabaret, pop plus tribal percussion and beats.</p><p>- Kerry Clarke</p><br/></div>"
   },
   "cedric-lightning": {
-    "artistId": 10,
-    "url": "https://calgaryfolkfest.com//artists/cedric-lightning",
+    "artistId": 11,
+    "url": "https://calgaryfolkfest.com/artists/cedric-lightning",
     "slug": "cedric-lightning",
     "men": 0,
     "notMen": 0,
@@ -230,6 +263,7 @@
     "name": "Cedric Lightning",
     "geo": "Mohkinstsis",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/cedric-lightning",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -242,8 +276,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Cree/Stoney Nakoda drummer Cedric Lightning grew up around southern Alberta as a member of the Samson Cree and Mini Thni nations and started singing at the young age of 2 and making sticks at age 14. Cedric grew up in the system so moved around a lot and coped by learning powwow, perfecting his mistakes and skills along the way. He jumped at any chance to attend events as he felt it was the best way to connect to his people. On one of his powwow adventures, he purchased a flute and taught himself how to play, thus leading him to the opportunity of working on theatre projects with Making Treaty 7 and recently, One Yellow Rabbit/Ghost River Theatre’s Echos of the Land. When not creating traditional and original music and acting as a musical director, he makes powwow sticks, Initially as a hobby, which has evolved into a real handcrafted business. His passion is sharing his accumulated knowledge with youth. Together with his oft-collaborators local poet, musician and actor, songwriter Kris Demeanor and Siksika Nation drummer Skip Wolfleg, they’ll share stories, humour, songs and dance in the round dance and pow wow traditions.</p><p>- Kerry Clarke</p><br/></div>"
   },
   "chris-pierce": {
-    "artistId": 11,
-    "url": "https://calgaryfolkfest.com//artists/chris-pierce",
+    "artistId": 12,
+    "url": "https://calgaryfolkfest.com/artists/chris-pierce",
     "slug": "chris-pierce",
     "men": 0,
     "notMen": 0,
@@ -252,6 +286,7 @@
     "name": "Chris Pierce",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/chris-pierce",
       "website": "https://www.chrispierce.com/",
       "facebook": "https://facebook.com/iamchrispierce",
       "instagram": "https://instagram.com/iamchrispierce",
@@ -264,8 +299,8 @@
     "bio": "<div class=\"wysiwyg\"><p>In these trying times, we need Chris Pierce. We need him not only for his soulful voice that lands somewhere between Bill Withers and Donny Hathaway; we need him for his songs that remind us to never give up the good fight for justice and equality. The singer-songwriter’s latest release, <em>Let All Who Will </em>(2023), is filled with stories that demand attention. “It’s Been Burning for a While,” is about the death of George Floyd and how repression of the marginalized is nothing new and “Mr. McMartin” is about an aging street sweeper who bears witness to history – riots, parades and catastrophes. Pierce’s catchword is compassion. He sings with it, he fights for it, and he believes that compassion is the only way forward. Pierce is no stranger to struggle. He was the only biracial kid on his block in LA. And, as a teenager, he was almost robbed of his hearing after contracting otosclerosis; he remains deaf in one ear and with only 60 per cent of the hearing in his other. He adapted, persevered and got a big break with a chance meeting with A-list superstar Seal in 2004 who invited him to open during a world tour. Since then, he has been gaining acclaim on tours with Steve Earle, Allison Russell and, in 2023, Neil Young and has had songs on the Netflix drama This Is Us, introducing his beautiful soul into our troubled times.</p><p>- Eric Rosenbaum</p><br/></div>"
   },
   "christopher-gamble": {
-    "artistId": 12,
-    "url": "https://calgaryfolkfest.com//artists/christopher-gamble",
+    "artistId": 13,
+    "url": "https://calgaryfolkfest.com/artists/christopher-gamble",
     "slug": "christopher-gamble",
     "men": 0,
     "notMen": 0,
@@ -274,6 +309,7 @@
     "name": "Christopher Gamble",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/christopher-gamble",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -286,8 +322,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Christopher Gamble thrives in the world of theatre, blending clowning, physical storytelling and mentorship to create work that resonates deeply with audiences and fellow artists. Whether on stage, directing from the wings, or guiding performers through their creative journey, Christopher’s passion for play and human connection shines through everything he does. </p><p>Christopher’s love for performance began early and led him to train at Red Deer College, and then to PlaySpace Studios where he immersed himself in physical theatre, alternative comedy, and clowning. His journey took him to study with some of the world’s most renowned clown and theatre practitioners. These experiences shaped his unique approach to performance—one that blends absurdity with authenticity. </p><br/></div>"
   },
   "cymande": {
-    "artistId": 13,
-    "url": "https://calgaryfolkfest.com//artists/cymande",
+    "artistId": 14,
+    "url": "https://calgaryfolkfest.com/artists/cymande",
     "slug": "cymande",
     "men": 0,
     "notMen": 0,
@@ -296,6 +332,7 @@
     "name": "Cymande",
     "geo": "United Kingdom",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/cymande",
       "website": "https://cymandeofficial.com/",
       "facebook": "https://www.facebook.com/CymandeOnline/",
       "instagram": "https://www.instagram.com/cymandeofficial/",
@@ -308,8 +345,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Cymande will perform Friday, July 25. </strong></p><p>In early ’70s South London, a group of young Caribbean-bred musicians began concocting an island-infused mix of soul, funk and African jazz, the likes of which nobody at the time was making. It got some pickup in the States — Cymande was the first British band to play New York’s Apollo Theatre and they opened on Al Green’s stadium tour — but to the combo’s frustration, they didn’t get far. Cymande largely gave up after their third album in 1974, reuniting only occasionally. Then their legend began to grow.</p><p>Rap pioneers Grandmaster Flash and DJ Kool Herc revered Cymande and deconstructed their beats and basslines into their own groundbreaking work. The 1990s, hip-hop cognoscenti considered Cymande a must-have in their record crates. The band’s grooves were sampled by De La Soul, The Fugees, Wu Tang Clan and more, and showed up on a couple Spike Lee film soundtracks.</p><p>Finally, these cult favourites regrouped and issued a new album in early 2025. </p><p>Renascence picks up where the band left off in 1974, as though there’s no multi-decade gap in Cymande’s discography. The basslines envelop. The saxophones wail. The drumbeats echo. The guitars trill. The flutes flutter. Whole new generations get to learn the source code behind hip hop’s modern groove and Cymande finally gets the broader appreciation they’ve always so richly deserved.</p><p>- Jason Markusoff</p><br/></div>"
   },
   "daby-toure": {
-    "artistId": 14,
-    "url": "https://calgaryfolkfest.com//artists/daby-toure",
+    "artistId": 15,
+    "url": "https://calgaryfolkfest.com/artists/daby-toure",
     "slug": "daby-toure",
     "men": 0,
     "notMen": 0,
@@ -318,6 +355,7 @@
     "name": "Daby Touré",
     "geo": "Mauritania/Senegal/Montreal",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/daby-toure",
       "website": "https://www.dabytoure.net/ ",
       "facebook": "https://www.facebook.com/dabytouremusic/",
       "instagram": "https://www.instagram.com/dabytoure/",
@@ -330,8 +368,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Musical and linguistic polyglot Daby Touré’s elegant sonic creations are a puzzle whose assembled pieces form a comprehensive, culture-bridging world map. He comes by this naturally, from a musical family and early life in a small Senegalese village where he and friends entertained by banging out rhythms on old tins, canisters and cardboard boxes. Later, living in the city with his musician father Hamidou Touré (from the pioneering family Afropop band Touré Kunda) Daby taught himself guitar, despite his father not wanting him to develop any crazy ideas about becoming a musician. He also began discovering the exotic joys of western pop music, thanks to radio, pirated cassettes, and the occasional TV broadcast.</p><p>He soaked up Paris’ rich musical life as a late teen, with music slowly becoming his whole life as he teamed up with his cousin Omar to form the band Touré Touré, which explored the vivid common frontiers of jazz and African sounds. This led to him writing and arranging songs, controlling every aspect of the creative process in his home studio. Touré’s unique musical path and explorer’s spirit have created a virtuosic guitarist whose melodic hooks and universal lyrics offer musical solace in troubled times.</p><p>-Kerry Clarke</p><br/></div>"
   },
   "dengue-fever": {
-    "artistId": 15,
-    "url": "https://calgaryfolkfest.com//artists/dengue-fever",
+    "artistId": 16,
+    "url": "https://calgaryfolkfest.com/artists/dengue-fever",
     "slug": "dengue-fever",
     "men": 0,
     "notMen": 0,
@@ -340,6 +378,7 @@
     "name": "Dengue Fever",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/dengue-fever",
       "website": "https://denguefevermusic.com/",
       "facebook": "https://www.facebook.com/DengueFever/",
       "instagram": "https://www.instagram.com/denguefevermusic/?hl=en",
@@ -352,8 +391,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Dengue Fever will perform Friday, July 25. </strong></p><p>What happens when two all-American brothers from Los Angeles discover the mesmerizing sounds of Cambodian psychedelic rock music? Ethan and Zack Holtzman did whatever any true musical explorers would do: they dug deeper. And then they started a band.</p><p>Cambodian psych gained traction in the ’60s and ’70s as a mash-up of traditional Cambodian music and American pop music creeping into the culture from American Armed Forces radio stations during the Vietnam war. The genre, and tragically, many of its musicians, were all but destroyed by the Cambodian genocide in the late ‘70s, but when the Holtzmans heard recordings by artists like Sinn Sisamouth and Ros Sereysothea they knew they wanted to be part of honouring that sound. They formed Dengue Fever in 2001 and recruited a full band including Cambodian-American singer Chhom Nimol, who comes from an established family of musicians in Cambodia.</p><p>Dengue Fever started by mostly performing covers of the Cambodian artists they’d grown to love, but over the course of the last 20 years they’ve grown into a sound of their own, mixing English words in with Nimol’s smooth Khmer lyricism and developing a unique musical language. Their original music often slips into a hypnotizing groove, combining uniquely Cambodian sounds and the floaty qualities of Nimol's voice with gentle rhythms and  a hefty dose of Western rock ’n’ roll swagger. As it turns out, Dengue Fever replicates the spirit of its source of inspiration: not quite Cambodian, not quite American, not quite modern, and not quite traditional, but definitely original.</p><p>- Elizabeth Chorney-Booth</p><br/></div>"
   },
   "digging-roots": {
-    "artistId": 16,
-    "url": "https://calgaryfolkfest.com//artists/digging-roots",
+    "artistId": 17,
+    "url": "https://calgaryfolkfest.com/artists/digging-roots",
     "slug": "digging-roots",
     "men": 0,
     "notMen": 0,
@@ -362,6 +401,7 @@
     "name": "Digging Roots",
     "geo": "Barrie, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/digging-roots",
       "website": "https://www.diggingrootsmusic.com/",
       "facebook": "https://www.facebook.com/DiggingRootsMusic",
       "instagram": "https://www.instagram.com/diggingroots/?hl=fr-ca",
@@ -374,8 +414,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Digging Roots will perform Saturday, July 26.</strong></p><p>Music is nourishment, medicine, a tool to heal. That’s the philosophy of Digging Roots. Anchored by husband-and-wife singer-songwriting duo ShoShona Kish and Raven Kanatakta, their groove mixes roots-rock, soul-folk and blues with traditional Indigenous music, all in service of exploring serious topics: connection to the land, residential schools, gun violence, the climate crisis. </p><p>Kanatakta grew up in a small Quebec Anishinaabe reserve, Winneway and studied at Berklee College of Music. Kish is Anishinaabe, from Batchewana First Nation but grew up mostly in Toronto. She is a music producer and activist – the founder of the International Indigenous Music Summit and the music label Ishkōdé Records. Kish and Kanatakta formed the band in 2004 in Ottawa, releasing four albums that include many collaborations including Tanya Tagaq, A Tribe Called Red, and Kinnie Starr. Critical acclaim and awards have been nonstop including Canadian Blues Awards, two JUNOS and Canadian Aboriginal Music Awards. Digging Roots is all about inspiring us to move together in a round dance where people gather in a circle to heal, honour, and celebrate life. It’s not uncommon for a round dance to break out at a Digging Roots show sometimes literally, always metaphorically.</p><p>- Eric Rosenbaum</p><br/></div>"
   },
   "the-dust-collectors": {
-    "artistId": 17,
-    "url": "https://calgaryfolkfest.com//artists/the-dust-collectors",
+    "artistId": 18,
+    "url": "https://calgaryfolkfest.com/artists/the-dust-collectors",
     "slug": "the-dust-collectors",
     "men": 0,
     "notMen": 0,
@@ -384,6 +424,7 @@
     "name": "The Dust Collectors",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-dust-collectors",
       "website": "https://thedustcollectors.com/",
       "facebook": "https://www.facebook.com/thedustcollectorsmusic",
       "instagram": "https://www.instagram.com/thedustcollectorsmusic/",
@@ -396,8 +437,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Purity, sweet longing, lone-ing your way across golden fields towards porcelain mountains one moment closer to home, all of this is captured in Calgary band The Dust Collectors’ recent song, “Alberta,” which – reflecting the unvarnished style of the band – was recorded in one day. The tune is a star gleaming within the band’s constellation of spread out, shimmering musical gems.</p><p>Formed by four friends in 2018, the group eventually attracted three more kindred spirits. It may seem counterintuitive that music created by a seven-piece outfit basks in stripped-down glory, but as each member contributes to songwriting and vocals the result harkens back to a much subtler CSNY. No courters of hubris, their original goal was “to get anything played on (Alberta radio treasure) CKUA,” something they crossed off their list after their first single was released in 2022 followed by a full-length album, <em>Outside In,</em> and a couple of EPs in 2023.</p><p>The songs rove over stories of passing time, waiting on spring, the murder of one lover by another, and being caught against the mirror of our own lives, over and over again. These tales offer scant yet precise detail and are told in such a visual manner they are like musical picture books.</p><p>-Mary-Lynn Wardle</p></div>"
   },
   "el-balcon": {
-    "artistId": 18,
-    "url": "https://calgaryfolkfest.com//artists/el-balcon",
+    "artistId": 19,
+    "url": "https://calgaryfolkfest.com/artists/el-balcon",
     "slug": "el-balcon",
     "men": 0,
     "notMen": 0,
@@ -406,6 +447,7 @@
     "name": "El Balcón",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/el-balcon",
       "website": "https://www.elbalconmusic.com/",
       "facebook": "https://www.facebook.com/elsondelbalcon",
       "instagram": "https://www.instagram.com/elbalconmusic/",
@@ -418,8 +460,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Originally conceived as a reimagining of Mexican folk music, El Balcón have evolved into a genre-spanning ensemble. Their sound layers the jarana and tarima—staples of Mexican folk traditions—with the oud and violin, infusing microtonal melodies into the mix. Their arrangements are anchored by upright bass and rhythmically charged percussion, including the cajón and the unique timbre of the donkey jawbone. El Balcón experiments by arranging songs from the Son Jarocho repertoire, folk music from Veracruz, Mexico, with rhythmic, harmonic, and globally-influenced melodies.</p><p>Rooted in lead vocalist Valeria Del Marre’s Mexican heritage, the band has built its identity on celebrating and reinventing tradition. With the strength of their first two productions of traditional covers and compositions released in 2020 and 2021, <em>La Bruja</em> and <em>Contracorriente</em>, their first album consisting entirely of original compositions, <em>El Errante</em> (which translates to “The Wanderer”), explores themes of movement, migration, and cultural exchange, reflecting the collective’s focus on creating music that transcends borders.</p><br/></div>"
   },
   "elisapie": {
-    "artistId": 19,
-    "url": "https://calgaryfolkfest.com//artists/Elisapie",
+    "artistId": 20,
+    "url": "https://calgaryfolkfest.com/artists/Elisapie",
     "slug": "elisapie",
     "men": 0,
     "notMen": 0,
@@ -428,6 +470,7 @@
     "name": "Elisapie",
     "geo": "Montreal",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Elisapie",
       "website": "https://www.elisapie.com/",
       "facebook": "https://www.facebook.com/elisapieisaac/",
       "instagram": "https://www.instagram.com/elisapie/",
@@ -440,8 +483,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Elisapie will perform Thursday, July 24. </strong></p><p>When her fourth album Inuktitut was released in 2023, Elisapie had no idea that non-Inuit listeners would embrace each song with the same enthusiasm as her Northern brethren. In her recollections, tipsy local revellers are crowding the dance floor, a full moon is shining through the window, and it’s always Friday night at the Ikkarivvik Bar in Kuujjuaq. Elisapie was a teenager here in Nunavik, Northern Quebec, singing along (no doubt at full volume) to the wistful, escape-songs that flooded the community radio airwaves: “I Want to Break Free”, “Dreams”, “Time After Time”… These songs of hope followed Elisapie throughout her musical journey, transcending the borders of this once-HBC outpost on Ungava Bay. When she decided to record each song using the ancient Inuktitut language and thoughtful, Inuit musicality that pays homage to the slow rhythm of the land, Elisapie knew it might be a hard sell. Promoting any record in this day and age is difficult, let alone a non-Anglophone record sung in a language spoken by less than 50,000 people. But there is something magical about this collection of songs. Maybe it’s the strong sense of home that Elisapie and her collaborator, Joe Grass, were able to imbue in each track - the unfamiliar language delightfully contradicts each familiar melody, leaving you nostalgic for a place you’ve never been to, and never want to leave.\n\n- Chantal Vitalis</p></div>"
   },
   "eliza-mary-doyle": {
-    "artistId": 20,
-    "url": "https://calgaryfolkfest.com//artists/eliza-mary-doyle",
+    "artistId": 21,
+    "url": "https://calgaryfolkfest.com/artists/eliza-mary-doyle",
     "slug": "eliza-mary-doyle",
     "men": 0,
     "notMen": 0,
@@ -450,6 +493,7 @@
     "name": "Eliza Mary Doyle",
     "geo": "Saskatoon, SK",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/eliza-mary-doyle",
       "website": "https://elizamarydoyle.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "http://instagram.com/elizamarydoyle",
@@ -462,8 +506,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Saskatoon veteran multi-instrumentalist Eliza Mary Doyle brings a sunny disposition to her vibrant weave of old time folk and bluegrass, tying the threads of the past together with an uptempo mix of the joyful and the forlorn.</p><p>The roots of contemporary folk have always included community engagement, and Doyle spent years working to spread the communal nature of art and music throughout her community. She’s balanced her work in music with a commitment to community involvement, co-founding and developing the Community Arts Mentorship Program (CAMP), a not-for-profit organization that brings music programming to remote and under-served Indigenous and Métis communities throughout Saskatchewan.</p><p>Doyle is a true Canadian veteran, having toured Canada, Europe, and the United States extensively through her 20-year career, both on her own and from 2016 to 2018 with Juno-winning Saskatchewan folk group The Dead South. Her most recent release, <em>Pretty Strange</em>, recorded in a whirlwind single session at Sidekick Studios in Nashville, is an upbeat mix of classic Appalachia and bluegrass, lifted by tried and true country grooves, and fleshed out by a mix of old school, Opry-ready instrumentation and a lived-in feel for the sonic hallmarks of contemporary Americana.</p><p>- Mike Dunn</p></div>"
   },
   "emily-wurramara": {
-    "artistId": 21,
-    "url": "https://calgaryfolkfest.com//artists/emily-wurramara",
+    "artistId": 22,
+    "url": "https://calgaryfolkfest.com/artists/emily-wurramara",
     "slug": "emily-wurramara",
     "men": 0,
     "notMen": 0,
@@ -472,6 +516,7 @@
     "name": "Emily Wurramara",
     "geo": "Australia",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/emily-wurramara",
       "website": "https://www.emilywurramara.au/home",
       "facebook": "https://www.facebook.com/emwurramara",
       "instagram": "https://www.instagram.com/emilywurramara_",
@@ -484,8 +529,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Emily Wurramara will perform Friday, July 25. </strong></p><p>On the road from Wurramara’s breakout album at age 22 to her second release six years later, she was hit with postpartum depression after her first daughter’s birth along with other mental health issues.</p><p>Then a fire tore through her home; she and her child escaped uninjured, but they lost all their possessions.</p><p>As she worked through the grief, her mother tattooed a single word in their people’s Anindilyakwa: nara, or “nothing.” It was a clarifying moment: “It was when I had nothing, I realized I had everything,” she’d say.</p><p>On that new album – titled <em>Nara</em> – Wurramara slices through genre boxes with a whirl of folk, blues, modern soul and country. Her confessional songwriting touches on her Indigenous heritage and Wurramara’s own life awakenings, held aloft on a voice that’s plenty soulful with liberal dashes of sweetness and cheeky charm. In other words, it’s not nothing.</p><p>– Jason Markusoff</p><br/></div>"
   },
   "empanadas-ilegales": {
-    "artistId": 22,
-    "url": "https://calgaryfolkfest.com//artists/empanadas-ilegales",
+    "artistId": 23,
+    "url": "https://calgaryfolkfest.com/artists/empanadas-ilegales",
     "slug": "empanadas-ilegales",
     "men": 0,
     "notMen": 0,
@@ -494,6 +539,7 @@
     "name": "Empanadas Ilegales",
     "geo": "Vancouver, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/empanadas-ilegales",
       "website": "https://empanadasilegales.com/",
       "facebook": "https://www.facebook.com/EmapandasIlegales/",
       "instagram": "https://www.instagram.com/empanadasilegaless/",
@@ -506,8 +552,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Empanadas Ilegales will perform Thursday, July 24. </strong></p><p>One can only speculate what puts Empanadas Ilegales on the wrong side of the law, but suffice to say their psychoactive spin on cumbia, salsa and other strains of Latin dance makes for a guaranteed good trip. Formed in 2017, with members hailing from Ecuador, Colombia, Argentina and Canada, the septet draws on the musicians’ richly varied cultural heritage — but they’re far from traditionalists. As documented on two studio albums and a raucous rooftop concert filmed at Vancouver’s Warrington Art Collective, their freewheeling musical approach embraces surf guitars, free-jazz sax solos and dubbed-out digressions alongside Afro-Cuban rhythms and propulsive baselines.</p><p>As far out as their musical influences get, Empanadas Ilegales never lose sight of the party. That balance between heady experimentation and body-shaking grooves earned the band a devoted fan base in their hometown Vancouver, where Empanada aficionados make a point of attending every performance to hear their latest musical reinvention. It has helped win over crowds at jazz and folk festivals across the country, where even the stuffiest audiences are powerless to resist the urge to dance. Rhythms so irresistible they could be classified as a mind-altering substance? No wonder it’s against the law.</p><p>- Peter Hemminger</p><br/></div>"
   },
   "fruition": {
-    "artistId": 23,
-    "url": "https://calgaryfolkfest.com//artists/fruition",
+    "artistId": 24,
+    "url": "https://calgaryfolkfest.com/artists/fruition",
     "slug": "fruition",
     "men": 0,
     "notMen": 0,
@@ -516,6 +562,7 @@
     "name": "Fruition",
     "geo": "Portland, OR",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/fruition",
       "website": "https://www.fruitionband.com/",
       "facebook": "http://facebook.com/fruitionpdx/",
       "instagram": "http://instagram.com/fruitionpdx/",
@@ -528,8 +575,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Portland, OR, that moss-laden muse of a city, has launched many exceptional musicians. It was here that three friends — Jay Cobb Anderson, Kellen Asebroek and Mimi Naja — honed their harmonies and presence busking on sidewalks. As their ambitions grew, so did their lineup, with bassist Jeff Leonard and drummer Tyler Thompson laying down bass and drums like a rhythmic backbone carved from old growth cedar. They have built their reputation on relentless touring, presenting the kind of live shows that make people stop and listen.</p><p>Their sound? A crafted cocktail of rock, folk and country, seasoned with choice gospel changes and chased with three-part harmonies so tight they fit like a second skin. The sonic palette allows for gritty, driving rhythms one moment and thoughtful ballads the next. Whether playing street corners, clubs or festivals, their performances deliver the raw energy of a stellar late-night jam. Fruition’s music is built for connection – a shared road trip with no destination, only the promise of good trouble ahead. They are wanderers, philosophers, restless, a band in constant bloom.</p><p>- Jay Nelson</p><br/></div>"
   },
   "the-hearts": {
-    "artistId": 24,
-    "url": "https://calgaryfolkfest.com//artists/the-hearts",
+    "artistId": 25,
+    "url": "https://calgaryfolkfest.com/artists/the-hearts",
     "slug": "the-hearts",
     "men": 0,
     "notMen": 0,
@@ -538,6 +585,7 @@
     "name": "The Hearts",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-hearts",
       "website": "https://thehearts.ca/home",
       "facebook": "http://www.facebook.com/theheartscanada",
       "instagram": "https://www.instagram.com/theheartscanada/",
@@ -550,8 +598,8 @@
     "bio": "<div class=\"wysiwyg\"><p>The Hearts, a veteran Edmonton sextet, released their first new music since before COVID in late 2024 with <em>Traces</em>, a six-song EP that sounds heaven-sent for those yearning for the heady days of Southern California’s Laurel Canyon sound in the late ’60s and early '70s. It’s country-folk with a rock edge, infused with what the band describes as a melancholic swagger.</p><p>Over 15 years, The Hearts have dabbled in synth, pop and rock, but <em>Traces</em>, their fifth release, has stripped all the excess away, emphasizing their gorgeous harmonies and primary songwriter Jeff Stuart’s immediately infectious melodies. This is music made for driving down the highway on a warm summer night at dusk, the window rolled down, the wind blowing through your hair and your thumb tapping on the steering wheel.</p><p>A highlight is “Almost Ready” which to a Gen Xer, feels like a forgotten slacker anthem with part of the catchy chorus reading, “I’ve been almost ready all my life. Feeling halfway happy half the time.” “Long Goodbye” is a beautiful and mournful piano ballad, “I don’t recognize myself sometimes, on this lonely ride.”</p><p>After a long hiatus, the band was eager to get in the studio and record new music and bring it to their fans, recently saying, “We love to get in front of people. Connecting with audiences is what it’s all about.” Lucky us.</p><p>–Sean Myers</p><br/></div>"
   },
   "the-heavy-heavy": {
-    "artistId": 25,
-    "url": "https://calgaryfolkfest.com//artists/the-heavy-heavy",
+    "artistId": 26,
+    "url": "https://calgaryfolkfest.com/artists/the-heavy-heavy",
     "slug": "the-heavy-heavy",
     "men": 0,
     "notMen": 0,
@@ -560,6 +608,7 @@
     "name": "The Heavy Heavy",
     "geo": "United Kingdom",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-heavy-heavy",
       "website": "https://www.theheavyheavy.com/",
       "facebook": "https://www.facebook.com/theheavyheavymusic",
       "instagram": "https://www.instagram.com/theheavyheavy/",
@@ -572,8 +621,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>The Heavy Heavy will perform Thursday, July 24. </strong></p><p>The Heavy Heavy are not the first band of the 21st Century to evoke classic 1960s sounds and they certainly won’t be the last, but there’s something different about the duo of Georgie Fuller and William Turner and their crackerjack band. Fuller and Turner don’t just sound ‘60s-inspired. Play their debut album, last year’s <em>One of a Kind</em>, in a mix with records from Jefferson Airplane, The Mamas and The Papas, or any other of The Heavy Heavy’s admitted influences and you’d be hard-pressed to identify which recording wasn’t made in 1968. These aren’t musicians who wear their love of their favourite bands on their sleeves — Fuller, Turner, and crew embody them to the core. </p><p>Nostalgia aside, much of The Heavy Heavy’s appeal is their dedication to pure rock and pop brightness — their songs range from pretty folk-pop sunshine to heavy groove-laden psychedelic jams. In the studio, The Heavy Heavy is primarily Turner’s baby — he pieces together guitar, bass, piano, organ, Melotron, and other flourishes — but the full five-piece live band adds considerable pep that comes alive in the group’s electric live shows. The Heavy Heavy’s inspiration may come from the past, but when those organs are whirling, tambourines are ringing, and guitars are jangling, their time is very much in the here and now.</p><p>-Elizabeth Chorney-Booth</p></div>"
   },
   "human-interest-with-col-cseke": {
-    "artistId": 26,
-    "url": "https://calgaryfolkfest.com//artists/human-interest-with-col-cseke",
+    "artistId": 27,
+    "url": "https://calgaryfolkfest.com/artists/human-interest-with-col-cseke",
     "slug": "human-interest-with-col-cseke",
     "men": 0,
     "notMen": 0,
@@ -582,6 +631,7 @@
     "name": "Human Interest with Col Cseke",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/human-interest-with-col-cseke",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -594,8 +644,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Col lives, works and makes plays on Treaty 7 land. He’s the Artistic &amp; Executive Director of Inside Out Theatre, a deaf, disabled, and mad theatre company plus spearheads non-fiction storytelling projects under the banner Field Work. Some favourite past projects include the documentary play Parts &amp; Labour, which documents the intense world of temporary foreign workers and meat packing in Alberta, In The Wake, with the Downstage Creation Ensemble, which tells an epic tale of climate change on a tiny platform and The Magpie Treasure Talks, co-created with Ellen Close, which presents expert talks on unexpected topics by homeless Calgarians. Previously Col served as Co-Artistic Director at Verb Theatre, Playwright in Residence at Alberta Theatre Projects, and Artistic Associate at The Scottish Opera during the Commonwealth Cultural Festival in Glasgow.</p><p>Human Interest is a new pop-up talk show packed with comedy, interviews, games and more where host Cseke welcomes compelling Calgarians to the stage to poke fun at the news and revel in all the interesting humans that make Calgary the fascinating and infuriating place it is. </p><p><em>- </em>Kerry Clarke</p></div>"
   },
   "jairus-sharif": {
-    "artistId": 27,
-    "url": "https://calgaryfolkfest.com//artists/jairus-sharif",
+    "artistId": 28,
+    "url": "https://calgaryfolkfest.com/artists/jairus-sharif",
     "slug": "jairus-sharif",
     "men": 0,
     "notMen": 0,
@@ -604,6 +654,7 @@
     "name": "Jairus Sharif",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jairus-sharif",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jairussharif/",
@@ -616,8 +667,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Self-taught saxophonist and multi-instrumental improviser Jairus Sharif sums up his musical approach in five words: “Really just starting to communicate.” Self-effacing as that may sound, it’s a reflection of where he is in his musical journey:  Sharif didn’t pick up a saxophone until 2020, discovering avant-jazz via the breadcrumb trails of early hip-hop samples after prior stints as a turntablist and blues and garage rocker. Less than five years into exploring his current instrument of choice, it’s understandable why he’d be humble.</p><p>“Humility” is also the title of the nearly 12-minute opening track to his full-length debut, <em>Water and Tools</em>, released in 2022 to widespread acclaim including a nod on the long list for the Polaris Music Prize — an achievement that could justify a bit of boasting. That album joined five EPs released over the two years prior, and an expansive follow-up in this year’s <em>Basis of Unity</em>, all of them charting the progression of a musical vision that was singular from its earliest moments. There’s nothing fumbling or hesitant about Sharif’s fusion of hazy hip-hop atmosphere and free-form jazz, no false steps or second-guesses. It’s as if something was revealed the moment he put the saxophone to his lips: not an answer, but a pathway, a means of uncovering inner truths and sharing them at the same time. Five years into the journey, Sharif is still only starting to communicate—and we’d suggest you tune in.</p><p> - Peter Hemminger</p><br/></div>"
   },
   "jake-vaadeland": {
-    "artistId": 28,
-    "url": "https://calgaryfolkfest.com//artists/jake-vaadeland",
+    "artistId": 29,
+    "url": "https://calgaryfolkfest.com/artists/jake-vaadeland",
     "slug": "jake-vaadeland",
     "men": 0,
     "notMen": 0,
@@ -626,6 +677,7 @@
     "name": "Jake Vaadeland & The Sturgeon River Boys",
     "geo": "Saskatchewan",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jake-vaadeland",
       "website": "https://www.jakevaadeland.com/",
       "facebook": "https://www.facebook.com/JakeVaadeland.SturgeonRiverBoys/",
       "instagram": "https://www.instagram.com/jake_vaadeland/",
@@ -638,8 +690,8 @@
     "bio": "<div class=\"wysiwyg\"><p>A small Scandinavian Saskatchewan farming settlement is the natural breeding ground for this old soul musician who’s steeped in the traditions of ‘50s rockabilly, bluegrass and old-time music. A self-taught retro multi-instrumentalist, golden-voiced songwriter and road warrior, Vaadeland instantly transforms from modern-day life into a simpler 1950s age. From touching, world-weary ballads to instant dance swing classics, he and his prairie tumbleweed band’s music and storytelling evoke the best of a bygone era with an intimate, fresh urgency. Vaadeland lives and breathes his character with vintage suits, corny jokes, banjo duels and stand-up bass dance moves.</p></div>"
   },
   "jennifer-castle": {
-    "artistId": 29,
-    "url": "https://calgaryfolkfest.com//artists/jennifer-castle",
+    "artistId": 30,
+    "url": "https://calgaryfolkfest.com/artists/jennifer-castle",
     "slug": "jennifer-castle",
     "men": 0,
     "notMen": 0,
@@ -648,6 +700,7 @@
     "name": "Jennifer Castle",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jennifer-castle",
       "website": "https://www.jennifercastlemusic.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jnfrcastle/",
@@ -660,8 +713,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Jennifer Castle has nothing to prove. For 20 years, she has steadily released albums of sharply observed, impeccably performed folk and alt-country, each of them not merely confident but seemingly unconcerned with anything outside of honing her musical expression. Along the way she has won over high-profile fans, from U.S. Girls and The Weather Station to Dan Bejar and Daniel Romano — the last of whom even recorded a song called “Jennifer Castle” in 2017. Polaris Prize shortlisted and critically admired, you could forgive Castle for coasting if she felt so inclined.</p><p>All of which makes her most recent album, 2024’s <em>Camelot</em>, even more remarkable. Castle’s songwriting has always felt timeless, but with <em>Camelot</em>, she’s crafted a true classic, a meditation on middle age, mythology, faith and the pleasure of doing chores in your underwear — in short, the range of human experience. Following the restraint of 2020’s strictly solo Monarch Season, recorded pre-pandemic but aptly reflecting that year’s isolation, Camelot is a bold move in the opposite direction. Its expansive lyrical themes are echoed in ambitious arrangements, veering effortlessly from delicate whispers to full-on country-rock choogle.</p><p>You may have heard one of the album’s most moving moments without realizing it: slow-burning ballad “Blowing Kisses” plays in its entirety in the third season of hit series The Bear, executive produced by celebrity chef, actor, and Castle’s former restaurant coworker Matty Matheson. It’s a well-deserved moment in the sun for an artist who has seemed content to stick to quieter paths, and an excellent reminder of what makes her one of Canada’s finest songwriters — not that she needed to prove it.</p><p>- Peter Hemminger</p><br/></div>"
   },
   "jolie-laide": {
-    "artistId": 30,
-    "url": "https://calgaryfolkfest.com//artists/jolie-laide",
+    "artistId": 31,
+    "url": "https://calgaryfolkfest.com/artists/jolie-laide",
     "slug": "jolie-laide",
     "men": 0,
     "notMen": 0,
@@ -670,6 +723,7 @@
     "name": "Jolie Laide",
     "geo": "Calgary/Seattle",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jolie-laide",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jolielaideband/",
@@ -682,8 +736,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Jolie Laide will perform Thursday, July 24. </strong>\n\nComprised of revered American indie singer-songwriter Nina Nastasia (who has amassed a stunning and critically acclaimed discography of unique, darkly melodic albums), and Jeff MacLeod, Clinton St. John, and Morgan Greenwood (of the band Florida BC), Jolie Laide planted its roots some two decades ago through a mutual connection. The lion's share of Nastasia's seven solo albums were masterfully recorded by the late, great Steve Albini, and in the mid-00s, MacLeod and St. John's old band The Cape May had just finished recording their album Glass Mountain Roads with the veteran engineer. Nina was next in line for the studio. A night of commiserating in the studio led to Albini suggesting The Cape May become Nastasia’s touring band for her upcoming North American and European tours. This pairing turned into a fruitful collaboration and a longstanding friendship.</p><p><em>Creatures</em>, their lush, sprawling new sophomore album, envelops a dynamic range (roots, spaghetti westerns, post-punk, sludge and electronic pop) of sonic approaches. The through-line is St. John and Nastasia’s conversational, layered duets, with her disarmingly sweet, world-weary and laser-sharp voice buffered by St. John's signature emotive tones. Powerfully poetic, often anthemic, narratives soar over Greenwood and MacLeod’s layered multi-instrumental wizardry: delay swirls and overdubbed toms, dusty, percussive rhythm, cascades of effected guitars and psychedelic glows. Fittingly, as their name translates to ugly/pretty, the band’s stories find grace and beauty in the imperfect with lyrics that ponder the existence of ghosts, depict strangers meeting in a post-apocalyptic wasteland and an overlord listening in a holding cell. A line from a Creatures’ song “Something for the Thrill.” encapsulates the music: ‘falling leaf, sitting on the borderline, hits you like a symphony.’</p><p>- Kerry Clarke</p><br/></div>"
   },
   "jon-mckiel": {
-    "artistId": 31,
-    "url": "https://calgaryfolkfest.com//artists/jon-mckiel",
+    "artistId": 32,
+    "url": "https://calgaryfolkfest.com/artists/jon-mckiel",
     "slug": "jon-mckiel",
     "men": 0,
     "notMen": 0,
@@ -692,6 +746,7 @@
     "name": "Jon McKiel",
     "geo": "Baie Verte, NB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jon-mckiel",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jon_mckiel_/?hl=en",
@@ -704,8 +759,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Calling Jon McKiel albums a journey doesn’t quite cut it; perhaps a traipse or a stumbling meander that nonetheless seems very focused on where it’s headed. Pitchfork called his 2024 album Hex “compellingly disorienting; the melodies are as tight as the grooves are strange — hypnotic, slightly off.”</p><p>Sonic exploration has long been this former Nova Scotian’s MO. His previous album, the cult favourite Bobby Joe Hope, began when McKiel bought a used reel-to-reel with tape still wound onto it. He was so captivated by the mysteriously odd song fragments and guitar pieces that his release became a full collaboration with the ghost on the reel.</p><p>Hex proved McKiel doesn’t need a ghost to help him create haunting sound collages that float spectrally between what can be described and what must simply be appreciated.</p><p>Exclaim! said while McKiel “crafts an approximation of brill building pop and Beatnik folk,” on his latest Polaris Prize-longlisted release, “his psychedelic guitar noodling and dense patchwork of percussive layers mean that Hex exists enigmatically out of time.” Folk, lo fi, dub, blues, tropicalia, poetry, “bloodshot pop” — critics have found encapsulating the East Coast songwriter’s music as tricky as capturing an aroma with a butterfly net.</p><p>- Jason Markusoff</p><br/></div>"
   },
   "katie-tupper": {
-    "artistId": 32,
-    "url": "https://calgaryfolkfest.com//artists/katie-tupper",
+    "artistId": 33,
+    "url": "https://calgaryfolkfest.com/artists/katie-tupper",
     "slug": "katie-tupper",
     "men": 0,
     "notMen": 0,
@@ -714,6 +769,7 @@
     "name": "Katie Tupper",
     "geo": "Saskatoon, SK",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/katie-tupper",
       "website": "https://katietuppermusic.com/",
       "facebook": "https://www.facebook.com/katietuppermusic",
       "instagram": "https://www.instagram.com/katietupper/",
@@ -726,8 +782,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Katie Tupper will perform Friday, July 25. \n</strong>\n“I grew up in fields of butter,” Tupper sings in her breakthrough 2022 song “How Can I Get Your Love.” It’s one of the more poetic descriptions of Saskatoon committed to record and a reminder that while Saskatchewan may not be the most obvious breeding ground for a powerhouse neo-soul singer, the prairies have the power to surprise. Only in her 20s, Tupper doesn’t necessarily look like she packs a world-wary vocal punch, but when she opens her mouth to sing her staggeringly deep voice is pure warmth and honey, with notes of liquid smoke and a jazzy sensibility that seemingly pour out of some preternatural place inside of her.</p><p>Singers often like to say that their voices are instruments and that is certainly true for Tupper, but her voice also feels like her destiny and calling — it would feel wrong to use those rich tones to do anything other than create dreamy R&amp;B-inspired slow jams. Like many young songwriters Tupper writes about love and exploring her personal identity and relationships, all made all the more profound by her emotive singing chops. Her most recent work, like the single “JEANS (fall on  my knees),” sees Tupper’s voice reaching even deeper, exploring new phrasing and ways of expressing longing and heartbreak. As she continues to grow as an artist there’s no telling what height that voice will soar or, more accurately, dig down to.</p><p>- Elizabeth Chorney-Booth</p><br/></div>"
   },
   "katy-kirby": {
-    "artistId": 33,
-    "url": "https://calgaryfolkfest.com//artists/katy-kirby",
+    "artistId": 34,
+    "url": "https://calgaryfolkfest.com/artists/katy-kirby",
     "slug": "katy-kirby",
     "men": 0,
     "notMen": 0,
@@ -736,6 +792,7 @@
     "name": "Katy Kirby",
     "geo": "Brooklyn, NY",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/katy-kirby",
       "website": "https://kirbykaty.com/",
       "facebook": "https://www.facebook.com/katykatykirbykirby",
       "instagram": "https://www.instagram.com/katykirbs",
@@ -748,8 +805,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Katy Kirby’s music exists in the space between folk and modern indie rock, where a deviously simple melody can twist into something unexpected with a little chromatic movement or a Beatlesque chord change. Lyrics that start off obtuse and casual toss out genius turns of phrase (“good neighbors make good fences”) and reveal themselves to be profound and poetic. She writes songs that hit harder the longer you ponder them. They unfold. They wander. They double back. They stop to ask what you think, then carry on.</p><p>Launched in 2021, Kirby’s debut, Cool Dry Place, introduced her as a preternaturally talented songwriter with a knack for quiet, whimsical reflection. Blue Raspberry (2024) confirms her place as one of the most intriguing voices amongst her peers. More sonically sophisticated and lyrically daring, the album explores discovery, longing and self-reflection with a mix of tenderness, wit and bile. It’s an album that embraces contradictions – soft spoken, biting, playful, melancholic, intimate, theatrical.</p><p>Live, Kirby invites you in with an ease that makes you lean in closer. Whether alone or backed by a band, her presence sneaks up on you – next thing you know, you’re hanging on every carefully crafted word.</p><p>- Jay Nelson</p><br/></div>"
   },
   "la-lom": {
-    "artistId": 34,
-    "url": "https://calgaryfolkfest.com//artists/la-lom",
+    "artistId": 35,
+    "url": "https://calgaryfolkfest.com/artists/la-lom",
     "slug": "la-lom",
     "men": 0,
     "notMen": 0,
@@ -758,6 +815,7 @@
     "name": "LA LOM",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/la-lom",
       "website": "https://www.thelalom.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/the_lalom/",
@@ -770,8 +828,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>LA LOM will perform Sunday, July 27.</strong></p><p>LA LOM is not-so-quietly an initialism, meaning the Los Angeles League of Musicians. These adventurous Angelinos pay tribute to the undersung vantages and vestiges of the city of Angels: A drive along the north-south corridor of Figueroa St. past the looming contemporary BMO stadium into the Latino neighbourhood of Vermont Vista where the album was recorded; a sweaty coffee shop concert lit up by a pale moon in the suburb of Montebello. These are the experiences of their city, captured entirely in sound, that make up the project’s debut.</p><p>The group met as teenagers and established themselves as a house band at the Hollywood Roosevelt Hotel, performing three-hour sets, five nights a week, developing an extensive repertoire of songs, and drawing from all possible origins of Latin music. Many of these were covers, the result of extensive crate-digging and musical exploration. Over time the band developed original material, borrowing from and iterating on the traditions of Colombia cumbia and sonidera, Mexican bolero, Peruvian chicha and ’60s soul surf.</p><p>In the same way that Dick Dale &amp; the Deltones’ interpolation of “Misirlou” has become sonically synonymous with LA since the release of Pulp Fiction, LA LOM seeks to redefine their city with the music that represents the people who make it what it is, and where those people arrive from. Much like the city of LA, LA LOM’s performance will be mysterious, alluring, and hotter than you were expecting it to be.</p><p>- Liam Prost</p><br/></div>"
   },
   "the-langan-band": {
-    "artistId": 35,
-    "url": "https://calgaryfolkfest.com//artists/the-langan-band",
+    "artistId": 36,
+    "url": "https://calgaryfolkfest.com/artists/the-langan-band",
     "slug": "the-langan-band",
     "men": 0,
     "notMen": 0,
@@ -780,6 +838,7 @@
     "name": "The Langan Band",
     "geo": "Scotland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-langan-band",
       "website": "https://www.thelanganband.com/",
       "facebook": "https://www.facebook.com/thelanganband/",
       "instagram": "https://www.instagram.com/thelanganbandofficial",
@@ -792,8 +851,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>The Langan Band will perform Saturday, July 26.</strong></p><p>The Langan Band describe themselves as “high energy acoustic dance music” and while that may not be an official genre or a descriptor that matches many modern bands, it certainly fits the bill for this trio. The band are also immediately and undeniably Scottish, adding a wee bit of brooding melancholy to an already complex stew.</p><p>Founded by namesake John Langan, the Langan Band is a guitar/violin/double bass affair with ample percussion provided by foot stomping and rhythmic strumming. While Langan’s voice is front and centre, violinist Alastair Caplin and bass player Dave Tunstall also join in for good ol’ harmonic singalongs, creating a sound that alternates between wild frenzy and pure joy, depending on where Langan decides to take them. Sometimes that means a fiery cacophony of sound, which may be followed by an intimate ballad, primed to break the listener’s heart.</p><p>While the trio uses traditional Scottish roots music as its launch pad, they bill themselves as a “progressive” group, dabbling in the odd bit of jazz, some Eastern European traditions, a smidge of American folk and whatever else fits the mood of their original songs. Audiences absolutely can expect to dance, but also to think, to listen, and maybe even raise their voices and start singing along.</p><p> </p><p>-Elizabeth Chorney-Booth</p></div>"
   },
   "laura-hickli": {
-    "artistId": 36,
-    "url": "https://calgaryfolkfest.com//artists/laura-hickli",
+    "artistId": 37,
+    "url": "https://calgaryfolkfest.com/artists/laura-hickli",
     "slug": "laura-hickli",
     "men": 0,
     "notMen": 0,
@@ -802,6 +861,7 @@
     "name": "Laura Hickli",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/laura-hickli",
       "website": "https://laurahickliofficial.com/",
       "facebook": "https://www.facebook.com/laurahickli",
       "instagram": "https://www.instagram.com/laurahickli/",
@@ -814,8 +874,8 @@
     "bio": "<div class=\"wysiwyg\"><p>A multi-instrumentalist and classically trained pianist, Laura Hickli explored her break with religion in 2022’s five-song release <em>Both Feet in the World,</em> At Least I Can Stand after growing up in a strict Christian household where she was homeschooled and subject to a barrage of conspiracy theories. <em>Both Feet</em>, her sophomore release, transports the listener to a dreamlike state with baroque pop vocals and lush orchestration providing a mesmerizing backdrop to her lyrical explorations of the questions she began to ask about the fear-driven faith foisted upon her by her family.</p><p>It’s a dramatic shift from her other main musical gig with 36?, fronted by her partner Taylor Cochrane, an art pop ensemble that could be easily find a home on a David Lynch soundtrack. A member of the group since 2018, she adds guitar and piano to Cochrane’s songwriting. The EP length <em>Both Feet </em>was originally released as a wildly juxtaposed split release with Naturally, an EP by 36? on the other side.  </p><p>For her own music, Hickli says she uses songwriting as a way to process trauma and the difficult things she’s gone through in her life. “It’s kind of like my go-to diary in a way.” A diary full of insights that, fortunately, she’s prepared to share with the world.</p><p>- Sean Myers</p><br/></div>"
   },
   "les-mamans-du-congo-x-rrobin": {
-    "artistId": 37,
-    "url": "https://calgaryfolkfest.com//artists/les-mamans-du-congo-x-rrobin",
+    "artistId": 38,
+    "url": "https://calgaryfolkfest.com/artists/les-mamans-du-congo-x-rrobin",
     "slug": "les-mamans-du-congo-x-rrobin",
     "men": 0,
     "notMen": 0,
@@ -824,6 +884,7 @@
     "name": "Les Mamans du Congo x Rrobin",
     "geo": "Republic of Congo",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/les-mamans-du-congo-x-rrobin",
       "website": "https://lesmamansducongo.bandcamp.com/album/les-mamans-du-congo-rrobin",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/lesmamansducongo/",
@@ -836,8 +897,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Les Mamans du Congo x Rrobin will perform Saturday, July 26.</strong></p><p>Gladys Samba was a restaurateur in the Congolese capital Brazzaville, worried a few years ago that new mothers in the city weren’t singing Bantu lullabies, and that her beloved traditional language would be lost to urban modernity. So, she began hosting sessions for a few women to teach them the gentle children’s melodies.</p><p>A few restaurant lullaby singalong sessions soon became workshops at a theatre festival,</p><p>Those became the Les Mamans du Congo, five voices rising in glorious song. And Gladys became Mama Glad: guardian of heritage, empowerer of women and bringer of joy.</p><p>Les Mamans sing about the history of their people and the daily life of Congolese women, subverting domestic expectations by using forks, kitchen pots, baskets and even grain in bowls as percussion. Adding another layer of rhythm is Rrobin, the DJ who fuses the traditional sound with electronic beats and hip hop — somehow making this already entrancing music even more danceable.</p><p>That’s not normally what lullabies are supposed to make the listener do, but Les Mamans are all about defying cultural norms and expectations.</p><p>- Jason Markusoff </p><br/></div>"
   },
   "los-lobos": {
-    "artistId": 38,
-    "url": "https://calgaryfolkfest.com//artists/Los-Lobos",
+    "artistId": 39,
+    "url": "https://calgaryfolkfest.com/artists/Los-Lobos",
     "slug": "los-lobos",
     "men": 0,
     "notMen": 0,
@@ -846,6 +907,7 @@
     "name": "Los Lobos",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Los-Lobos",
       "website": "https://www.loslobos.org/site/",
       "facebook": "https://www.facebook.com/LosLobos",
       "instagram": "https://www.instagram.com/loslobos",
@@ -858,8 +920,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Los Lobos will perform Saturday, July 26.</strong></p><p>How will The Wolves (Los Lobos, en español) survive? Just fine, gracias! Formed amongst ‘70s high school friends, David Hidalgo, Louie Perez, Cesar Rosas and Conrad Lozano (plus ex-Blaster, Steve Berlin), they emerged out of the early ‘80s L.A. punk/roots scene and crafted a long, distinguished career that meandered well past the initial roots-rock blast of their major label introduction. Moving through experimental rock, children’s recordings, tributes and biographical concept albums, they did not stand pat, at any time, for long.</p><p>Los Lobos are one of those bands that exist in multiple dimensions at once. To some, they’re the La Bamba guys riding the Ritchie Valens cover into mainstream consciousness. To others, they’re crack East L.A. rockers, blending Mexican and American folk, rhythm &amp; (especially) blues, and rock &amp; roll into something eternal. To committed fans, Los Lobos are one of the most underrated, shape-shifting American bands of the last 40 years. Along the way, they’ve picked up twelve Grammy nominations and four wins in multiple categories. Los Lobos will remind you why rock &amp; roll is more interesting when it doesn’t play by the rules. If you don’t walk away a believer, check your pulse.</p><p>- Jay Nelson</p><br/></div>"
   },
   "madeleine-peyroux": {
-    "artistId": 39,
-    "url": "https://calgaryfolkfest.com//artists/madeleine-peyroux",
+    "artistId": 40,
+    "url": "https://calgaryfolkfest.com/artists/madeleine-peyroux",
     "slug": "madeleine-peyroux",
     "men": 0,
     "notMen": 0,
@@ -868,6 +930,7 @@
     "name": "Madeleine Peyroux",
     "geo": "Kingston, NY",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/madeleine-peyroux",
       "website": "https://madeleinepeyroux.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/madeleinepeyroux/?hl=en",
@@ -880,8 +943,8 @@
     "bio": "<div class=\"wysiwyg\"><p><strong>Madeleine Peyroux will perform Saturday, July 26.</strong></p><p>There’s a world of difference between music that’s easy to listen to and easy listening music. Madeleine Peyroux absolutely falls into the first category (definitely not the second). She wowed the world in 2004 with her distinctively slinky, sumptuous vocals on her sophomore solo album, <em>Careless Love,</em> filled with songs that were sorta-jazz, sorta-folk, sorta-pop; a collection of jazz standards, pop and folk covers (Dylan, Cohen, Hank Williams etc.), and a few co-written originals in English and French. Peyroux drew oohs and ahs from the public and critics who compared her voice to Billie Holiday and Edith Piaf well-deserved praise with an absence of hyperbole. Like Piaf, Peyroux got her start busking on the streets of Paris after moving there as a teen with her mother, post divorce. Peyroux says playing guitar and singing helped her heal. She eventually joined a traditional jazz group and wandered across Europe performing songs from the Great American Songbook. Peyroux’s honeyed croon caught the ear of the music industry resulting in a series of albums and the brandishing of that gorgeous voice at concerts around the world. Starting in 2018, Peyroux took a six-year break and emerged in 2024 with an outside-the-box new album <em>Let’s Walk</em>, her first LP of all self-penned songs. People who experience Peyroux learn what she learned when she was a busker: great songs wield powerful magic, especially sung with that wonderful voice.</p><p>- Eric Rosenbaum</p><br/></div>"
   },
   "maia-davies": {
-    "artistId": 40,
-    "url": "https://calgaryfolkfest.com//artists/maia-davies",
+    "artistId": 41,
+    "url": "https://calgaryfolkfest.com/artists/maia-davies",
     "slug": "maia-davies",
     "men": 0,
     "notMen": 0,
@@ -890,6 +953,7 @@
     "name": "Maïa Davies",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/maia-davies",
       "website": null,
       "facebook": "https://www.facebook.com/maiadaviesmusic/ ",
       "instagram": "https://www.instagram.com/maiadaviesmusic/?hl=en",
@@ -902,8 +966,8 @@
     "bio": "<div class=\"wysiwyg\"><p>Singer-songwriter Maïa Davies has devoted much of her professional life crafting music as the power behind an array of musical thrones. Davies is an in-demand composer and co-writer who has penned hits for Monster Truck, Mother Mother, Serena Ryder, Jill Barber and more. After her start in folk band Ladies of the Canyon, she has released two solo albums in French. Her latest, Lovers’ Gothic (2024) is a chronological storyboard of the artist’s emotional journey ­– compositions that encompass the visceral throughline of her cycling through stages of grief and mourning after a toxic relationship. Recorded in 12 different studios across the country in collaboration with a large cast of co-producers and star musicians, it’s a conceptual gem with musical short stories built from potently raw and resonating lyrics around piano-driven indie pop, enveloped with rolling beats and echoing synths. Whether she’s on the stage in full view or orchestrating behind the scenes, Davies is a force to be reckoned with.</p><p>-Kerry Clarke</p></div>"
   },
   "medusa": {
-    "artistId": 41,
-    "url": "https://calgaryfolkfest.com//artists/medusa",
+    "artistId": 42,
+    "url": "https://calgaryfolkfest.com/artists/medusa",
     "slug": "medusa",
     "men": 0,
     "notMen": 0,
@@ -912,6 +976,7 @@
     "name": "Medusa",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/medusa",
       "website": "https://medusaquartet.com/home ",
       "facebook": "https://www.facebook.com/MedusaQuartet",
       "instagram": "https://www.instagram.com/medusaquartet/",
@@ -923,31 +988,9 @@
     },
     "bio": "<div class=\"wysiwyg\"><p>Four women, known as Medusa, enter from stage left (or rather, left field) to redefine classical music. Medusa's inspired blend of Celtic, Middle Eastern, Pakistani and European influences is unravelling the velvet rope that can keep classical music precious. The members of Medusa (Saskia Tomkins, Marta Sołek, Lea Kirstein and Georgia Hathaway) wield an impressive array of instruments that include the Swedish keyharp, suka or vertical fiddle, six-string Polish fiddle, lyra or pear-shaped three-stringed Greek violin, viola and cello. They update the archaic with personal histories that run counter to the easy lives of people who enjoy the highest levels of wealth, power, fame and social status. Medusa's music and philosophy is radically inclusive, so please leave any racism, sexism, anti-queerness or anti-anything-ism outside the door. Named after the only mortal of the three powerful Greek Gorgons (monstrous sisters), a queen who could unalive anyone who stared too long at her mesmerizing, hissing head of snakes, Medusa invites listeners to be fearless but open-minded. Come closer, close your eyes and hear the beauty. </p><p>-Chantal Vitalis</p></div>"
   },
-  "michael-kiwanuka": {
-    "artistId": 42,
-    "url": "https://calgaryfolkfest.com//artists/michael-kiwanuka",
-    "slug": "michael-kiwanuka",
-    "men": 0,
-    "notMen": 0,
-    "origImage": "https://admin.calgaryfolkfest.com/uploads/half_MK_2025_Approved_Photo_fbbefa8ff4.webp",
-    "image": "/img/michael-kiwanuka.webp",
-    "name": "Michael Kiwanuka",
-    "geo": "United Kingdom",
-    "socials": {
-      "website": "https://www.michaelkiwanuka.com/",
-      "facebook": "https://www.facebook.com/MichaelKiwanuka/#",
-      "instagram": "https://www.instagram.com/michaelkiwanuka/",
-      "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj?si=HjDvViUxQ4WvnDPVX_XP7w",
-      "itunes": "https://music.apple.com/kh/artist/michael-kiwanuka/433457346",
-      "twitter": "https://twitter.com/calgaryfolkfest",
-      "bandcamp": null,
-      "youtube": "https://www.youtube.com/user/MichaelKiwanukaVEVO "
-    },
-    "bio": "<div class=\"wysiwyg\"><p><strong>Michael Kiwanuka will perform Thursday, July 24. \n</strong>\nMichael Kiwanuka first graced the Calgary Folk Fest stage in 2017. Eight years later, so much and so little has changed. Right after a first major electoral shift in the US and a time of sweeping populism in Europe, Kiwanuka’s <em>Love and Hate </em>record was a softly political and deeply personal exposition of selfhood in the face of a hard and difficult world. </p><p>A pandemic, a mercury prize, and five UK prime ministers later, Kiwanuka returns with <em>Small Changes</em>, new songs and a robust live performance. Kiwanuka still brings a rebel soul, but one that is even more wizened and contemplative. Small Changes represents the experience of watching yourself and your peers mold and shift around you. </p><p>Expressed in low-tempo, meditative soul and rock arrangements, the songs are engrossing. Slow pulsing rhythms give an almost trip-hop effect, even though the instrumentation is as analog as possible. His voice is the centrepiece, powerful and encompassing, but also resonant and reserved. There’s carefully prescribed space in his phrasing. Every lyric lands slowly over the course of a song, fed with the honesty and authenticity of a well-observed life.</p><p>When the world is moving faster than we can track, and the fluttering of life and politics feels out of our control, Michael Kiwanuka reminds us all we can do is find where we can make our own small changes. </p><p>-Liam Prost</p><br/></div>"
-  },
   "montuno-west": {
     "artistId": 43,
-    "url": "https://calgaryfolkfest.com//artists/montuno-west",
+    "url": "https://calgaryfolkfest.com/artists/montuno-west",
     "slug": "montuno-west",
     "men": 0,
     "notMen": 0,
@@ -956,6 +999,7 @@
     "name": "Montuno West",
     "geo": "Calgary/Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/montuno-west",
       "website": "https://montunowest.com/",
       "facebook": "https://www.facebook.com/MontunoWestLatinJazz/",
       "instagram": "https://www.instagram.com/montunowest/",
@@ -969,7 +1013,7 @@
   },
   "moontricks": {
     "artistId": 44,
-    "url": "https://calgaryfolkfest.com//artists/moontricks",
+    "url": "https://calgaryfolkfest.com/artists/moontricks",
     "slug": "moontricks",
     "men": 0,
     "notMen": 0,
@@ -978,6 +1022,7 @@
     "name": "Moontricks",
     "geo": "Kootenays, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/moontricks",
       "website": "https://moontricksmusic.com/",
       "facebook": "https://www.facebook.com/Moontricks",
       "instagram": "https://www.instagram.com/moontricks_music",
@@ -991,7 +1036,7 @@
   },
   "nick-shoulders": {
     "artistId": 45,
-    "url": "https://calgaryfolkfest.com//artists/nick-shoulders",
+    "url": "https://calgaryfolkfest.com/artists/nick-shoulders",
     "slug": "nick-shoulders",
     "men": 0,
     "notMen": 0,
@@ -1000,6 +1045,7 @@
     "name": "Nick Shoulders",
     "geo": "Arkansas",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/nick-shoulders",
       "website": "https://nickshoulders.com/ ",
       "facebook": "https://www.facebook.com/OKAYcrawdad",
       "instagram": "https://www.instagram.com/neckshoulders/?hl=en",
@@ -1013,7 +1059,7 @@
   },
   "ocie-elliott": {
     "artistId": 46,
-    "url": "https://calgaryfolkfest.com//artists/ocie-elliott",
+    "url": "https://calgaryfolkfest.com/artists/ocie-elliott",
     "slug": "ocie-elliott",
     "men": 0,
     "notMen": 0,
@@ -1022,6 +1068,7 @@
     "name": "Ocie Elliott",
     "geo": "Victoria, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/ocie-elliott",
       "website": "https://www.ocieelliott.com/",
       "facebook": "https://www.facebook.com/ocieelliottmusic/",
       "instagram": "http://instagram.com/ocieelliott",
@@ -1035,7 +1082,7 @@
   },
   "olive-klug": {
     "artistId": 47,
-    "url": "https://calgaryfolkfest.com//artists/olive-klug",
+    "url": "https://calgaryfolkfest.com/artists/olive-klug",
     "slug": "olive-klug",
     "men": 0,
     "notMen": 0,
@@ -1044,6 +1091,7 @@
     "name": "Olive Klug",
     "geo": "Portland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/olive-klug",
       "website": "https://oliveklug.com/ ",
       "facebook": "https://www.facebook.com/olivia.klugman",
       "instagram": "https://www.instagram.com/oliveklug",
@@ -1057,7 +1105,7 @@
   },
   "pahua": {
     "artistId": 48,
-    "url": "https://calgaryfolkfest.com//artists/pahua",
+    "url": "https://calgaryfolkfest.com/artists/pahua",
     "slug": "pahua",
     "men": 0,
     "notMen": 0,
@@ -1066,6 +1114,7 @@
     "name": "Pahua",
     "geo": "Mexico",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/pahua",
       "website": null,
       "facebook": "https://www.facebook.com/Pahuamusic/",
       "instagram": "https://www.instagram.com/pahuamusic/",
@@ -1079,7 +1128,7 @@
   },
   "patrick-watson": {
     "artistId": 49,
-    "url": "https://calgaryfolkfest.com//artists/patrick-watson",
+    "url": "https://calgaryfolkfest.com/artists/patrick-watson",
     "slug": "patrick-watson",
     "men": 0,
     "notMen": 0,
@@ -1088,6 +1137,7 @@
     "name": "Patrick Watson",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/patrick-watson",
       "website": "http://www.patrickwatson.net/",
       "facebook": "https://www.facebook.com/patrickwatsonofficial/",
       "instagram": "https://www.instagram.com/patrickwatsonofficial/",
@@ -1101,7 +1151,7 @@
   },
   "ruby-waters": {
     "artistId": 50,
-    "url": "https://calgaryfolkfest.com//artists/ruby-waters",
+    "url": "https://calgaryfolkfest.com/artists/ruby-waters",
     "slug": "ruby-waters",
     "men": 0,
     "notMen": 0,
@@ -1110,6 +1160,7 @@
     "name": "Ruby Waters",
     "geo": "Shelburne, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/ruby-waters",
       "website": "https://rubywatersmusic.com/",
       "facebook": "http://facebook.com/rubywatersmusic",
       "instagram": "http://instagram.com/rubywatersmusic",
@@ -1123,7 +1174,7 @@
   },
   "shaina-hayes": {
     "artistId": 51,
-    "url": "https://calgaryfolkfest.com//artists/shaina-hayes",
+    "url": "https://calgaryfolkfest.com/artists/shaina-hayes",
     "slug": "shaina-hayes",
     "men": 0,
     "notMen": 0,
@@ -1132,6 +1183,7 @@
     "name": "Shaina Hayes",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/shaina-hayes",
       "website": "https://www.shainahayes.com/",
       "facebook": "https://www.facebook.com/profile.php?id=100085313060278",
       "instagram": "https://instagram.comhttps//www.instagram.com/shainahayes.music",
@@ -1145,7 +1197,7 @@
   },
   "sierra-ferrell": {
     "artistId": 52,
-    "url": "https://calgaryfolkfest.com//artists/sierra-ferrell",
+    "url": "https://calgaryfolkfest.com/artists/sierra-ferrell",
     "slug": "sierra-ferrell",
     "men": 0,
     "notMen": 0,
@@ -1154,6 +1206,7 @@
     "name": "Sierra Ferrell",
     "geo": "Charleston, WV",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/sierra-ferrell",
       "website": "https://www.sierraferrellmusic.com/music",
       "facebook": "https://www.facebook.com/sierraferrellmusic/",
       "instagram": "https://www.instagram.com/sierraelizabethferrell/",
@@ -1167,7 +1220,7 @@
   },
   "skinny-dyck": {
     "artistId": 53,
-    "url": "https://calgaryfolkfest.com//artists/skinny-dyck",
+    "url": "https://calgaryfolkfest.com/artists/skinny-dyck",
     "slug": "skinny-dyck",
     "men": 0,
     "notMen": 0,
@@ -1176,6 +1229,7 @@
     "name": "Skinny Dyck",
     "geo": "Lethbridge, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/skinny-dyck",
       "website": "https://www.skinnydyck.com/",
       "facebook": "https://www.facebook.com/skinnydyck/",
       "instagram": "https://www.instagram.com/skinnydyck/",
@@ -1189,7 +1243,7 @@
   },
   "st-arnaud": {
     "artistId": 54,
-    "url": "https://calgaryfolkfest.com//artists/st-arnaud",
+    "url": "https://calgaryfolkfest.com/artists/st-arnaud",
     "slug": "st-arnaud",
     "men": 0,
     "notMen": 0,
@@ -1198,6 +1252,7 @@
     "name": "St.Arnaud",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/st-arnaud",
       "website": "https://www.starnaudband.com/about-1",
       "facebook": "https://www.facebook.com/StArnaudBand/",
       "instagram": "https://www.instagram.com/starnaudband/",
@@ -1211,7 +1266,7 @@
   },
   "starpainter": {
     "artistId": 55,
-    "url": "https://calgaryfolkfest.com//artists/starpainter",
+    "url": "https://calgaryfolkfest.com/artists/starpainter",
     "slug": "starpainter",
     "men": 0,
     "notMen": 0,
@@ -1220,6 +1275,7 @@
     "name": "Starpainter",
     "geo": "Lethbridge, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/starpainter",
       "website": "https://www.starpainter.ca",
       "facebook": "https://www.facebook.com/StarpainterBand",
       "instagram": "https://www.instagram.com/starpainterband/",
@@ -1233,7 +1289,7 @@
   },
   "steve-dawson-and-the-hooded-mergansers": {
     "artistId": 56,
-    "url": "https://calgaryfolkfest.com//artists/steve-dawson-and-the-hooded-mergansers",
+    "url": "https://calgaryfolkfest.com/artists/steve-dawson-and-the-hooded-mergansers",
     "slug": "steve-dawson-and-the-hooded-mergansers",
     "men": 0,
     "notMen": 0,
@@ -1242,6 +1298,7 @@
     "name": "Steve Dawson and The Hooded Mergansers",
     "geo": "Nashville",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/steve-dawson-and-the-hooded-mergansers",
       "website": "https://www.stevedawson.ca/",
       "facebook": "https://www.facebook.com/stevedawsonguitar",
       "instagram": "http://instagram.com/stevedawsonmusic",
@@ -1255,7 +1312,7 @@
   },
   "steve-earle-and-reckless-kelly": {
     "artistId": 57,
-    "url": "https://calgaryfolkfest.com//artists/steve-earle-and-reckless-kelly",
+    "url": "https://calgaryfolkfest.com/artists/steve-earle-and-reckless-kelly",
     "slug": "steve-earle-and-reckless-kelly",
     "men": 0,
     "notMen": 0,
@@ -1264,6 +1321,7 @@
     "name": "Steve Earle and Reckless Kelly",
     "geo": "Texas, New York",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/steve-earle-and-reckless-kelly",
       "website": "https://www.steveearle.com/",
       "facebook": "https://www.facebook.com/SteveEarleMusic/",
       "instagram": "https://www.instagram.com/steveearle/",
@@ -1277,7 +1335,7 @@
   },
   "susan-o-neill": {
     "artistId": 58,
-    "url": "https://calgaryfolkfest.com//artists/susan-o-neill",
+    "url": "https://calgaryfolkfest.com/artists/susan-o-neill",
     "slug": "susan-o-neill",
     "men": 0,
     "notMen": 0,
@@ -1286,6 +1344,7 @@
     "name": "Susan O'Neill",
     "geo": "Ireland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/susan-o-neill",
       "website": "https://susanoneill.ie/",
       "facebook": "https://www.facebook.com/susanoneillmusic",
       "instagram": "https://www.instagram.com/susanoneillmusic/",
@@ -1299,7 +1358,7 @@
   },
   "tall-tall-trees": {
     "artistId": 59,
-    "url": "https://calgaryfolkfest.com//artists/tall-tall-trees",
+    "url": "https://calgaryfolkfest.com/artists/tall-tall-trees",
     "slug": "tall-tall-trees",
     "men": 0,
     "notMen": 0,
@@ -1308,6 +1367,7 @@
     "name": "Tall Tall Trees",
     "geo": "Asheville",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tall-tall-trees",
       "website": "https://talltalltrees.com/ ",
       "facebook": "http://facebook.com/talltalltreees",
       "instagram": "https://www.instagram.com/talltalltrees/",
@@ -1321,7 +1381,7 @@
   },
   "tamar-ilana-and-ventanas": {
     "artistId": 60,
-    "url": "https://calgaryfolkfest.com//artists/tamar-ilana-and-ventanas",
+    "url": "https://calgaryfolkfest.com/artists/tamar-ilana-and-ventanas",
     "slug": "tamar-ilana-and-ventanas",
     "men": 0,
     "notMen": 0,
@@ -1330,6 +1390,7 @@
     "name": "Tamar Ilana & Ventanas",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tamar-ilana-and-ventanas",
       "website": "https://www.ventanasmusic.com/",
       "facebook": "https://www.facebook.com/ventanasmusic",
       "instagram": "http://instagram.com/ventanasmusic",
@@ -1343,7 +1404,7 @@
   },
   "tim-williams": {
     "artistId": 61,
-    "url": "https://calgaryfolkfest.com//artists/tim-williams",
+    "url": "https://calgaryfolkfest.com/artists/tim-williams",
     "slug": "tim-williams",
     "men": 0,
     "notMen": 0,
@@ -1352,6 +1413,7 @@
     "name": "Tim Williams",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tim-williams",
       "website": "https://timwilliamsblues.ca/",
       "facebook": "https://www.facebook.com/TimWilliamsBlues",
       "instagram": "https://www.instagram.com/timwilliamsblues/",
@@ -1365,7 +1427,7 @@
   },
   "tinge": {
     "artistId": 62,
-    "url": "https://calgaryfolkfest.com//artists/tinge",
+    "url": "https://calgaryfolkfest.com/artists/tinge",
     "slug": "tinge",
     "men": 0,
     "notMen": 0,
@@ -1374,6 +1436,7 @@
     "name": "Tinge",
     "geo": "Winnipeg",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tinge",
       "website": null,
       "facebook": "https://www.facebook.com/tingetheband/",
       "instagram": "https://www.instagram.com/tingetheband/",
@@ -1387,7 +1450,7 @@
   },
   "tribe-artist-society": {
     "artistId": 63,
-    "url": "https://calgaryfolkfest.com//artists/tribe-artist-society",
+    "url": "https://calgaryfolkfest.com/artists/tribe-artist-society",
     "slug": "tribe-artist-society",
     "men": 0,
     "notMen": 0,
@@ -1396,6 +1459,7 @@
     "name": "Tribe Artist Society",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tribe-artist-society",
       "website": "https://tribeartistsociety.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/tribeartistsociety/",
@@ -1409,7 +1473,7 @@
   },
   "viik": {
     "artistId": 64,
-    "url": "https://calgaryfolkfest.com//artists/viik",
+    "url": "https://calgaryfolkfest.com/artists/viik",
     "slug": "viik",
     "men": 0,
     "notMen": 0,
@@ -1418,6 +1482,7 @@
     "name": "VÍÍK",
     "geo": "Denmark",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/viik",
       "website": "https://viikmusic.com/",
       "facebook": "https://www.facebook.com/viikband/",
       "instagram": "https://www.instagram.com/viikband/",
@@ -1431,7 +1496,7 @@
   },
   "willi-carlisle": {
     "artistId": 65,
-    "url": "https://calgaryfolkfest.com//artists/willi-carlisle",
+    "url": "https://calgaryfolkfest.com/artists/willi-carlisle",
     "slug": "willi-carlisle",
     "men": 0,
     "notMen": 0,
@@ -1440,6 +1505,7 @@
     "name": "Willi Carlisle",
     "geo": "Kansas",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/willi-carlisle",
       "website": "https://www.willicarlisle.com/ ",
       "facebook": "https://www.facebook.com/willicarlislemusic",
       "instagram": "https://instagram.com/willicarlisle/",
@@ -1453,7 +1519,7 @@
   },
   "yasmin-williams": {
     "artistId": 66,
-    "url": "https://calgaryfolkfest.com//artists/yasmin-williams",
+    "url": "https://calgaryfolkfest.com/artists/yasmin-williams",
     "slug": "yasmin-williams",
     "men": 0,
     "notMen": 0,
@@ -1462,6 +1528,7 @@
     "name": "Yasmin Williams",
     "geo": "Woodbridge, VA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/yasmin-williams",
       "website": "https://www.yasminwilliamsmusic.com/",
       "facebook": "https://www.facebook.com/yasminmwilliams/",
       "instagram": "https://www.instagram.com/guitar.yaz/",

@@ -1,7 +1,7 @@
 {
   "al-qawha": {
     "artistId": 0,
-    "url": "https://calgaryfolkfest.com//artists/al-qawha",
+    "url": "https://calgaryfolkfest.com/artists/al-qawha",
     "slug": "al-qawha",
     "men": 0,
     "notMen": 0,
@@ -10,6 +10,7 @@
     "name": "Al Qahwa",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/al-qawha",
       "website": "https://mgam.com/al-qahwa/",
       "facebook": "https://www.facebook.com/alqahwaensemble",
       "instagram": "https://www.instagram.com/qahwa4/",
@@ -77,7 +78,7 @@
   },
   "aladean-kheroufi": {
     "artistId": 1,
-    "url": "https://calgaryfolkfest.com//artists/aladean-kheroufi",
+    "url": "https://calgaryfolkfest.com/artists/aladean-kheroufi",
     "slug": "aladean-kheroufi",
     "men": 0,
     "notMen": 0,
@@ -86,6 +87,7 @@
     "name": "Aladean Kheroufi",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/aladean-kheroufi",
       "website": null,
       "facebook": "https://www.facebook.com/AladeanKheroufi/",
       "instagram": "https://www.instagram.com/a.d.kheroufi/",
@@ -151,9 +153,33 @@
       }
     ]
   },
-  "badbadnotgood": {
+  "arrested-development": {
     "artistId": 2,
-    "url": "https://calgaryfolkfest.com//artists/badbadnotgood",
+    "url": "https://calgaryfolkfest.com/artists/arrested-development",
+    "slug": "arrested-development",
+    "men": 0,
+    "notMen": 0,
+    "origImage": "https://admin.calgaryfolkfest.com/uploads/half_Arrested_Photo_32152f994e.webp",
+    "image": "/img/arrested-development.webp",
+    "name": "Arrested Development",
+    "geo": "Atlanta, GA",
+    "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/arrested-development",
+      "website": "https://www.arresteddevelopmentmusic.com/",
+      "facebook": "https://www.facebook.com/OfficialArrestedDevelopment",
+      "instagram": "https://www.instagram.com/arresteddevelopment__",
+      "spotify": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7?si=VKaQ7BBPT4SVHjEBAEvNOQ",
+      "itunes": null,
+      "twitter": "https://twitter.com/calgaryfolkfest",
+      "bandcamp": null,
+      "youtube": "https://www.youtube.com/channel/UCyGq8IpCzBL8BgYI91X8Fwg"
+    },
+    "bio": "<div class=\"wysiwyg\"><p>Arrested Development have been hip hop trailblazers and cultural champions of consciousness and empowerment across the planet since 1991. Their representation of eclectic and vibrant African sounds and clothing has produced a unique clash of rhythms and style that continue to contrast the expected look and sound of hip hop culture.</p><p>Their just released (July 4) album Adult Contemporary Hip Hop, co-executive produced by band leader/founder Speech &amp; boom-bap specialist Configa, is a celebration and a challenge — reflecting on freedom, self-determination and the contradictions still woven into Black American life.</p><p>Dedicated to the late Twan Mack, the album takes its title from a mantra he lived by — and transforms it into a bold, grown, and deeply soulful statement. This marks the fourth consecutive Arrested Development project co-executive produced by the two, creating continuing a creative partnership that has helped shape the group’s modern resurgence.</p><p>This time, the album features very few outside features — the focus being on the AD family: Frontman Speech, 1Love, Tasha LaRae, and Fareedah, with extended kin Ke’Andra and Bee Taylor. Music production is led by Speech and Configa, with additional contributions from MRK SX and Ben Marc. Lyrically rich and sonically grounded, the project capturing a cohesive, soulful sound rooted in classic hip-hop aesthetics. It explores melanin pride, the world: mortality, relationships, love, legacy, and bar-for-bar energy — all underpinned by the timeless rhythms of boom-bap.</p><p>Adult Contemporary hip hop isn’t just a tribute — it’s a continuation. Of family. Of message. Of real hip-hop.</p></div>",
+    "shows": []
+  },
+  "badbadnotgood": {
+    "artistId": 3,
+    "url": "https://calgaryfolkfest.com/artists/badbadnotgood",
     "slug": "badbadnotgood",
     "men": 0,
     "notMen": 0,
@@ -162,6 +188,7 @@
     "name": "BADBADNOTGOOD",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/badbadnotgood",
       "website": "https://badbadnotgood.com/",
       "facebook": "https://www.facebook.com/people/BADBADNOTGOOD/100044172502285/",
       "instagram": "https://www.instagram.com/badbadnotgood/",
@@ -189,8 +216,8 @@
     ]
   },
   "begonia": {
-    "artistId": 3,
-    "url": "https://calgaryfolkfest.com//artists/Begonia",
+    "artistId": 4,
+    "url": "https://calgaryfolkfest.com/artists/Begonia",
     "slug": "begonia",
     "men": 0,
     "notMen": 0,
@@ -199,6 +226,7 @@
     "name": "Begonia",
     "geo": "Winnipeg, MB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Begonia",
       "website": "https://www.hellobegonia.com/",
       "facebook": "https://www.facebook.com/hellobegonia/",
       "instagram": "https://www.instagram.com/hellobegonia/?hl=en",
@@ -265,8 +293,8 @@
     ]
   },
   "bel-and-quinn": {
-    "artistId": 4,
-    "url": "https://calgaryfolkfest.com//artists/bel-and-quinn",
+    "artistId": 5,
+    "url": "https://calgaryfolkfest.com/artists/bel-and-quinn",
     "slug": "bel-and-quinn",
     "men": 0,
     "notMen": 0,
@@ -275,6 +303,7 @@
     "name": "Bel and Quinn",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/bel-and-quinn",
       "website": "https://www.belandquinn.com/",
       "facebook": "https://www.facebook.com/BelandQuinn/",
       "instagram": "https://www.instagram.com/bel_quinn/?hl=fr",
@@ -341,8 +370,8 @@
     ]
   },
   "billie-zizi": {
-    "artistId": 5,
-    "url": "https://calgaryfolkfest.com//artists/billie-zizi",
+    "artistId": 6,
+    "url": "https://calgaryfolkfest.com/artists/billie-zizi",
     "slug": "billie-zizi",
     "men": 0,
     "notMen": 0,
@@ -351,6 +380,7 @@
     "name": "Billie Zizi",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/billie-zizi",
       "website": "https://billiezizi.com/",
       "facebook": "https://www.facebook.com/Billie-Zizi-305531666151305/?ref=aymt_homepage_panelhttp://www.facebook.com/",
       "instagram": "https://www.instagram.com/billiezizi/?hl=en",
@@ -417,8 +447,8 @@
     ]
   },
   "blue-moon-marquee": {
-    "artistId": 6,
-    "url": "https://calgaryfolkfest.com//artists/blue-moon-marquee",
+    "artistId": 7,
+    "url": "https://calgaryfolkfest.com/artists/blue-moon-marquee",
     "slug": "blue-moon-marquee",
     "men": 0,
     "notMen": 0,
@@ -427,6 +457,7 @@
     "name": "Blue Moon Marquee",
     "geo": "Duncan, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/blue-moon-marquee",
       "website": "https://bluemoonmarquee.com/",
       "facebook": "https://www.facebook.com/bluemoonmarquee/",
       "instagram": "https://www.instagram.com/bluemoonmarquee/",
@@ -506,8 +537,8 @@
     ]
   },
   "bria-salmena": {
-    "artistId": 7,
-    "url": "https://calgaryfolkfest.com//artists/bria-salmena",
+    "artistId": 8,
+    "url": "https://calgaryfolkfest.com/artists/bria-salmena",
     "slug": "bria-salmena",
     "men": 0,
     "notMen": 0,
@@ -516,6 +547,7 @@
     "name": "Bria Salmena",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/bria-salmena",
       "website": "https://www.briasalmena.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/briasalmena",
@@ -582,8 +614,8 @@
     ]
   },
   "cake": {
-    "artistId": 8,
-    "url": "https://calgaryfolkfest.com//artists/Cake",
+    "artistId": 9,
+    "url": "https://calgaryfolkfest.com/artists/Cake",
     "slug": "cake",
     "men": 0,
     "notMen": 0,
@@ -592,6 +624,7 @@
     "name": "CAKE",
     "geo": "Sacramento, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Cake",
       "website": "https://www.cakemusic.com/",
       "facebook": "https://www.facebook.com/cakemusic/",
       "instagram": "https://www.instagram.com/thebandcake/",
@@ -619,8 +652,8 @@
     ]
   },
   "caracol": {
-    "artistId": 9,
-    "url": "https://calgaryfolkfest.com//artists/caracol",
+    "artistId": 10,
+    "url": "https://calgaryfolkfest.com/artists/caracol",
     "slug": "caracol",
     "men": 0,
     "notMen": 0,
@@ -629,6 +662,7 @@
     "name": "Caracol",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/caracol",
       "website": null,
       "facebook": "https://www.facebook.com/caracolmusic/",
       "instagram": "http://instagram.com/caracolmusic",
@@ -695,8 +729,8 @@
     ]
   },
   "cedric-lightning": {
-    "artistId": 10,
-    "url": "https://calgaryfolkfest.com//artists/cedric-lightning",
+    "artistId": 11,
+    "url": "https://calgaryfolkfest.com/artists/cedric-lightning",
     "slug": "cedric-lightning",
     "men": 0,
     "notMen": 0,
@@ -705,6 +739,7 @@
     "name": "Cedric Lightning",
     "geo": "Mohkinstsis",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/cedric-lightning",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -758,8 +793,8 @@
     ]
   },
   "chris-pierce": {
-    "artistId": 11,
-    "url": "https://calgaryfolkfest.com//artists/chris-pierce",
+    "artistId": 12,
+    "url": "https://calgaryfolkfest.com/artists/chris-pierce",
     "slug": "chris-pierce",
     "men": 0,
     "notMen": 0,
@@ -768,6 +803,7 @@
     "name": "Chris Pierce",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/chris-pierce",
       "website": "https://www.chrispierce.com/",
       "facebook": "https://facebook.com/iamchrispierce",
       "instagram": "https://instagram.com/iamchrispierce",
@@ -834,8 +870,8 @@
     ]
   },
   "christopher-gamble": {
-    "artistId": 12,
-    "url": "https://calgaryfolkfest.com//artists/christopher-gamble",
+    "artistId": 13,
+    "url": "https://calgaryfolkfest.com/artists/christopher-gamble",
     "slug": "christopher-gamble",
     "men": 0,
     "notMen": 0,
@@ -844,6 +880,7 @@
     "name": "Christopher Gamble",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/christopher-gamble",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -857,8 +894,8 @@
     "shows": []
   },
   "cymande": {
-    "artistId": 13,
-    "url": "https://calgaryfolkfest.com//artists/cymande",
+    "artistId": 14,
+    "url": "https://calgaryfolkfest.com/artists/cymande",
     "slug": "cymande",
     "men": 0,
     "notMen": 0,
@@ -867,6 +904,7 @@
     "name": "Cymande",
     "geo": "United Kingdom",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/cymande",
       "website": "https://cymandeofficial.com/",
       "facebook": "https://www.facebook.com/CymandeOnline/",
       "instagram": "https://www.instagram.com/cymandeofficial/",
@@ -907,8 +945,8 @@
     ]
   },
   "daby-toure": {
-    "artistId": 14,
-    "url": "https://calgaryfolkfest.com//artists/daby-toure",
+    "artistId": 15,
+    "url": "https://calgaryfolkfest.com/artists/daby-toure",
     "slug": "daby-toure",
     "men": 0,
     "notMen": 0,
@@ -917,6 +955,7 @@
     "name": "Daby Touré",
     "geo": "Mauritania/Senegal/Montreal",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/daby-toure",
       "website": "https://www.dabytoure.net/ ",
       "facebook": "https://www.facebook.com/dabytouremusic/",
       "instagram": "https://www.instagram.com/dabytoure/",
@@ -996,8 +1035,8 @@
     ]
   },
   "dengue-fever": {
-    "artistId": 15,
-    "url": "https://calgaryfolkfest.com//artists/dengue-fever",
+    "artistId": 16,
+    "url": "https://calgaryfolkfest.com/artists/dengue-fever",
     "slug": "dengue-fever",
     "men": 0,
     "notMen": 0,
@@ -1006,6 +1045,7 @@
     "name": "Dengue Fever",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/dengue-fever",
       "website": "https://denguefevermusic.com/",
       "facebook": "https://www.facebook.com/DengueFever/",
       "instagram": "https://www.instagram.com/denguefevermusic/?hl=en",
@@ -1059,8 +1099,8 @@
     ]
   },
   "digging-roots": {
-    "artistId": 16,
-    "url": "https://calgaryfolkfest.com//artists/digging-roots",
+    "artistId": 17,
+    "url": "https://calgaryfolkfest.com/artists/digging-roots",
     "slug": "digging-roots",
     "men": 0,
     "notMen": 0,
@@ -1069,6 +1109,7 @@
     "name": "Digging Roots",
     "geo": "Barrie, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/digging-roots",
       "website": "https://www.diggingrootsmusic.com/",
       "facebook": "https://www.facebook.com/DiggingRootsMusic",
       "instagram": "https://www.instagram.com/diggingroots/?hl=fr-ca",
@@ -1148,8 +1189,8 @@
     ]
   },
   "the-dust-collectors": {
-    "artistId": 17,
-    "url": "https://calgaryfolkfest.com//artists/the-dust-collectors",
+    "artistId": 18,
+    "url": "https://calgaryfolkfest.com/artists/the-dust-collectors",
     "slug": "the-dust-collectors",
     "men": 0,
     "notMen": 0,
@@ -1158,6 +1199,7 @@
     "name": "The Dust Collectors",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-dust-collectors",
       "website": "https://thedustcollectors.com/",
       "facebook": "https://www.facebook.com/thedustcollectorsmusic",
       "instagram": "https://www.instagram.com/thedustcollectorsmusic/",
@@ -1211,8 +1253,8 @@
     ]
   },
   "el-balcon": {
-    "artistId": 18,
-    "url": "https://calgaryfolkfest.com//artists/el-balcon",
+    "artistId": 19,
+    "url": "https://calgaryfolkfest.com/artists/el-balcon",
     "slug": "el-balcon",
     "men": 0,
     "notMen": 0,
@@ -1221,6 +1263,7 @@
     "name": "El Balcón",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/el-balcon",
       "website": "https://www.elbalconmusic.com/",
       "facebook": "https://www.facebook.com/elsondelbalcon",
       "instagram": "https://www.instagram.com/elbalconmusic/",
@@ -1274,8 +1317,8 @@
     ]
   },
   "elisapie": {
-    "artistId": 19,
-    "url": "https://calgaryfolkfest.com//artists/Elisapie",
+    "artistId": 20,
+    "url": "https://calgaryfolkfest.com/artists/Elisapie",
     "slug": "elisapie",
     "men": 0,
     "notMen": 0,
@@ -1284,6 +1327,7 @@
     "name": "Elisapie",
     "geo": "Montreal",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Elisapie",
       "website": "https://www.elisapie.com/",
       "facebook": "https://www.facebook.com/elisapieisaac/",
       "instagram": "https://www.instagram.com/elisapie/",
@@ -1337,8 +1381,8 @@
     ]
   },
   "eliza-mary-doyle": {
-    "artistId": 20,
-    "url": "https://calgaryfolkfest.com//artists/eliza-mary-doyle",
+    "artistId": 21,
+    "url": "https://calgaryfolkfest.com/artists/eliza-mary-doyle",
     "slug": "eliza-mary-doyle",
     "men": 0,
     "notMen": 0,
@@ -1347,6 +1391,7 @@
     "name": "Eliza Mary Doyle",
     "geo": "Saskatoon, SK",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/eliza-mary-doyle",
       "website": "https://elizamarydoyle.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "http://instagram.com/elizamarydoyle",
@@ -1413,8 +1458,8 @@
     ]
   },
   "emily-wurramara": {
-    "artistId": 21,
-    "url": "https://calgaryfolkfest.com//artists/emily-wurramara",
+    "artistId": 22,
+    "url": "https://calgaryfolkfest.com/artists/emily-wurramara",
     "slug": "emily-wurramara",
     "men": 0,
     "notMen": 0,
@@ -1423,6 +1468,7 @@
     "name": "Emily Wurramara",
     "geo": "Australia",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/emily-wurramara",
       "website": "https://www.emilywurramara.au/home",
       "facebook": "https://www.facebook.com/emwurramara",
       "instagram": "https://www.instagram.com/emilywurramara_",
@@ -1476,8 +1522,8 @@
     ]
   },
   "empanadas-ilegales": {
-    "artistId": 22,
-    "url": "https://calgaryfolkfest.com//artists/empanadas-ilegales",
+    "artistId": 23,
+    "url": "https://calgaryfolkfest.com/artists/empanadas-ilegales",
     "slug": "empanadas-ilegales",
     "men": 0,
     "notMen": 0,
@@ -1486,6 +1532,7 @@
     "name": "Empanadas Ilegales",
     "geo": "Vancouver, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/empanadas-ilegales",
       "website": "https://empanadasilegales.com/",
       "facebook": "https://www.facebook.com/EmapandasIlegales/",
       "instagram": "https://www.instagram.com/empanadasilegaless/",
@@ -1539,8 +1586,8 @@
     ]
   },
   "fruition": {
-    "artistId": 23,
-    "url": "https://calgaryfolkfest.com//artists/fruition",
+    "artistId": 24,
+    "url": "https://calgaryfolkfest.com/artists/fruition",
     "slug": "fruition",
     "men": 0,
     "notMen": 0,
@@ -1549,6 +1596,7 @@
     "name": "Fruition",
     "geo": "Portland, OR",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/fruition",
       "website": "https://www.fruitionband.com/",
       "facebook": "http://facebook.com/fruitionpdx/",
       "instagram": "http://instagram.com/fruitionpdx/",
@@ -1602,8 +1650,8 @@
     ]
   },
   "the-hearts": {
-    "artistId": 24,
-    "url": "https://calgaryfolkfest.com//artists/the-hearts",
+    "artistId": 25,
+    "url": "https://calgaryfolkfest.com/artists/the-hearts",
     "slug": "the-hearts",
     "men": 0,
     "notMen": 0,
@@ -1612,6 +1660,7 @@
     "name": "The Hearts",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-hearts",
       "website": "https://thehearts.ca/home",
       "facebook": "http://www.facebook.com/theheartscanada",
       "instagram": "https://www.instagram.com/theheartscanada/",
@@ -1678,8 +1727,8 @@
     ]
   },
   "the-heavy-heavy": {
-    "artistId": 25,
-    "url": "https://calgaryfolkfest.com//artists/the-heavy-heavy",
+    "artistId": 26,
+    "url": "https://calgaryfolkfest.com/artists/the-heavy-heavy",
     "slug": "the-heavy-heavy",
     "men": 0,
     "notMen": 0,
@@ -1688,6 +1737,7 @@
     "name": "The Heavy Heavy",
     "geo": "United Kingdom",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-heavy-heavy",
       "website": "https://www.theheavyheavy.com/",
       "facebook": "https://www.facebook.com/theheavyheavymusic",
       "instagram": "https://www.instagram.com/theheavyheavy/",
@@ -1728,8 +1778,8 @@
     ]
   },
   "human-interest-with-col-cseke": {
-    "artistId": 26,
-    "url": "https://calgaryfolkfest.com//artists/human-interest-with-col-cseke",
+    "artistId": 27,
+    "url": "https://calgaryfolkfest.com/artists/human-interest-with-col-cseke",
     "slug": "human-interest-with-col-cseke",
     "men": 0,
     "notMen": 0,
@@ -1738,6 +1788,7 @@
     "name": "Human Interest with Col Cseke",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/human-interest-with-col-cseke",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/calgaryfolkfest/?hl=en",
@@ -1778,8 +1829,8 @@
     ]
   },
   "jairus-sharif": {
-    "artistId": 27,
-    "url": "https://calgaryfolkfest.com//artists/jairus-sharif",
+    "artistId": 28,
+    "url": "https://calgaryfolkfest.com/artists/jairus-sharif",
     "slug": "jairus-sharif",
     "men": 0,
     "notMen": 0,
@@ -1788,6 +1839,7 @@
     "name": "Jairus Sharif",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jairus-sharif",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jairussharif/",
@@ -1854,8 +1906,8 @@
     ]
   },
   "jake-vaadeland": {
-    "artistId": 28,
-    "url": "https://calgaryfolkfest.com//artists/jake-vaadeland",
+    "artistId": 29,
+    "url": "https://calgaryfolkfest.com/artists/jake-vaadeland",
     "slug": "jake-vaadeland",
     "men": 0,
     "notMen": 0,
@@ -1864,6 +1916,7 @@
     "name": "Jake Vaadeland & The Sturgeon River Boys",
     "geo": "Saskatchewan",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jake-vaadeland",
       "website": "https://www.jakevaadeland.com/",
       "facebook": "https://www.facebook.com/JakeVaadeland.SturgeonRiverBoys/",
       "instagram": "https://www.instagram.com/jake_vaadeland/",
@@ -1917,8 +1970,8 @@
     ]
   },
   "jennifer-castle": {
-    "artistId": 29,
-    "url": "https://calgaryfolkfest.com//artists/jennifer-castle",
+    "artistId": 30,
+    "url": "https://calgaryfolkfest.com/artists/jennifer-castle",
     "slug": "jennifer-castle",
     "men": 0,
     "notMen": 0,
@@ -1927,6 +1980,7 @@
     "name": "Jennifer Castle",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jennifer-castle",
       "website": "https://www.jennifercastlemusic.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jnfrcastle/",
@@ -1993,8 +2047,8 @@
     ]
   },
   "jolie-laide": {
-    "artistId": 30,
-    "url": "https://calgaryfolkfest.com//artists/jolie-laide",
+    "artistId": 31,
+    "url": "https://calgaryfolkfest.com/artists/jolie-laide",
     "slug": "jolie-laide",
     "men": 0,
     "notMen": 0,
@@ -2003,6 +2057,7 @@
     "name": "Jolie Laide",
     "geo": "Calgary/Seattle",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jolie-laide",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jolielaideband/",
@@ -2082,8 +2137,8 @@
     ]
   },
   "jon-mckiel": {
-    "artistId": 31,
-    "url": "https://calgaryfolkfest.com//artists/jon-mckiel",
+    "artistId": 32,
+    "url": "https://calgaryfolkfest.com/artists/jon-mckiel",
     "slug": "jon-mckiel",
     "men": 0,
     "notMen": 0,
@@ -2092,6 +2147,7 @@
     "name": "Jon McKiel",
     "geo": "Baie Verte, NB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/jon-mckiel",
       "website": null,
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/jon_mckiel_/?hl=en",
@@ -2158,8 +2214,8 @@
     ]
   },
   "katie-tupper": {
-    "artistId": 32,
-    "url": "https://calgaryfolkfest.com//artists/katie-tupper",
+    "artistId": 33,
+    "url": "https://calgaryfolkfest.com/artists/katie-tupper",
     "slug": "katie-tupper",
     "men": 0,
     "notMen": 0,
@@ -2168,6 +2224,7 @@
     "name": "Katie Tupper",
     "geo": "Saskatoon, SK",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/katie-tupper",
       "website": "https://katietuppermusic.com/",
       "facebook": "https://www.facebook.com/katietuppermusic",
       "instagram": "https://www.instagram.com/katietupper/",
@@ -2221,8 +2278,8 @@
     ]
   },
   "katy-kirby": {
-    "artistId": 33,
-    "url": "https://calgaryfolkfest.com//artists/katy-kirby",
+    "artistId": 34,
+    "url": "https://calgaryfolkfest.com/artists/katy-kirby",
     "slug": "katy-kirby",
     "men": 0,
     "notMen": 0,
@@ -2231,6 +2288,7 @@
     "name": "Katy Kirby",
     "geo": "Brooklyn, NY",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/katy-kirby",
       "website": "https://kirbykaty.com/",
       "facebook": "https://www.facebook.com/katykatykirbykirby",
       "instagram": "https://www.instagram.com/katykirbs",
@@ -2297,8 +2355,8 @@
     ]
   },
   "la-lom": {
-    "artistId": 34,
-    "url": "https://calgaryfolkfest.com//artists/la-lom",
+    "artistId": 35,
+    "url": "https://calgaryfolkfest.com/artists/la-lom",
     "slug": "la-lom",
     "men": 0,
     "notMen": 0,
@@ -2307,6 +2365,7 @@
     "name": "LA LOM",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/la-lom",
       "website": "https://www.thelalom.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/the_lalom/",
@@ -2347,8 +2406,8 @@
     ]
   },
   "the-langan-band": {
-    "artistId": 35,
-    "url": "https://calgaryfolkfest.com//artists/the-langan-band",
+    "artistId": 36,
+    "url": "https://calgaryfolkfest.com/artists/the-langan-band",
     "slug": "the-langan-band",
     "men": 0,
     "notMen": 0,
@@ -2357,6 +2416,7 @@
     "name": "The Langan Band",
     "geo": "Scotland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/the-langan-band",
       "website": "https://www.thelanganband.com/",
       "facebook": "https://www.facebook.com/thelanganband/",
       "instagram": "https://www.instagram.com/thelanganbandofficial",
@@ -2410,8 +2470,8 @@
     ]
   },
   "laura-hickli": {
-    "artistId": 36,
-    "url": "https://calgaryfolkfest.com//artists/laura-hickli",
+    "artistId": 37,
+    "url": "https://calgaryfolkfest.com/artists/laura-hickli",
     "slug": "laura-hickli",
     "men": 0,
     "notMen": 0,
@@ -2420,6 +2480,7 @@
     "name": "Laura Hickli",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/laura-hickli",
       "website": "https://laurahickliofficial.com/",
       "facebook": "https://www.facebook.com/laurahickli",
       "instagram": "https://www.instagram.com/laurahickli/",
@@ -2486,8 +2547,8 @@
     ]
   },
   "les-mamans-du-congo-x-rrobin": {
-    "artistId": 37,
-    "url": "https://calgaryfolkfest.com//artists/les-mamans-du-congo-x-rrobin",
+    "artistId": 38,
+    "url": "https://calgaryfolkfest.com/artists/les-mamans-du-congo-x-rrobin",
     "slug": "les-mamans-du-congo-x-rrobin",
     "men": 0,
     "notMen": 0,
@@ -2496,6 +2557,7 @@
     "name": "Les Mamans du Congo x Rrobin",
     "geo": "Republic of Congo",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/les-mamans-du-congo-x-rrobin",
       "website": "https://lesmamansducongo.bandcamp.com/album/les-mamans-du-congo-rrobin",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/lesmamansducongo/",
@@ -2549,8 +2611,8 @@
     ]
   },
   "los-lobos": {
-    "artistId": 38,
-    "url": "https://calgaryfolkfest.com//artists/Los-Lobos",
+    "artistId": 39,
+    "url": "https://calgaryfolkfest.com/artists/Los-Lobos",
     "slug": "los-lobos",
     "men": 0,
     "notMen": 0,
@@ -2559,6 +2621,7 @@
     "name": "Los Lobos",
     "geo": "Los Angeles, CA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/Los-Lobos",
       "website": "https://www.loslobos.org/site/",
       "facebook": "https://www.facebook.com/LosLobos",
       "instagram": "https://www.instagram.com/loslobos",
@@ -2586,8 +2649,8 @@
     ]
   },
   "madeleine-peyroux": {
-    "artistId": 39,
-    "url": "https://calgaryfolkfest.com//artists/madeleine-peyroux",
+    "artistId": 40,
+    "url": "https://calgaryfolkfest.com/artists/madeleine-peyroux",
     "slug": "madeleine-peyroux",
     "men": 0,
     "notMen": 0,
@@ -2596,6 +2659,7 @@
     "name": "Madeleine Peyroux",
     "geo": "Kingston, NY",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/madeleine-peyroux",
       "website": "https://madeleinepeyroux.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/madeleinepeyroux/?hl=en",
@@ -2636,8 +2700,8 @@
     ]
   },
   "maia-davies": {
-    "artistId": 40,
-    "url": "https://calgaryfolkfest.com//artists/maia-davies",
+    "artistId": 41,
+    "url": "https://calgaryfolkfest.com/artists/maia-davies",
     "slug": "maia-davies",
     "men": 0,
     "notMen": 0,
@@ -2646,6 +2710,7 @@
     "name": "Maïa Davies",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/maia-davies",
       "website": null,
       "facebook": "https://www.facebook.com/maiadaviesmusic/ ",
       "instagram": "https://www.instagram.com/maiadaviesmusic/?hl=en",
@@ -2699,8 +2764,8 @@
     ]
   },
   "medusa": {
-    "artistId": 41,
-    "url": "https://calgaryfolkfest.com//artists/medusa",
+    "artistId": 42,
+    "url": "https://calgaryfolkfest.com/artists/medusa",
     "slug": "medusa",
     "men": 0,
     "notMen": 0,
@@ -2709,6 +2774,7 @@
     "name": "Medusa",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/medusa",
       "website": "https://medusaquartet.com/home ",
       "facebook": "https://www.facebook.com/MedusaQuartet",
       "instagram": "https://www.instagram.com/medusaquartet/",
@@ -2774,46 +2840,9 @@
       }
     ]
   },
-  "michael-kiwanuka": {
-    "artistId": 42,
-    "url": "https://calgaryfolkfest.com//artists/michael-kiwanuka",
-    "slug": "michael-kiwanuka",
-    "men": 0,
-    "notMen": 0,
-    "origImage": "https://admin.calgaryfolkfest.com/uploads/half_MK_2025_Approved_Photo_fbbefa8ff4.webp",
-    "image": "/img/michael-kiwanuka.webp",
-    "name": "Michael Kiwanuka",
-    "geo": "United Kingdom",
-    "socials": {
-      "website": "https://www.michaelkiwanuka.com/",
-      "facebook": "https://www.facebook.com/MichaelKiwanuka/#",
-      "instagram": "https://www.instagram.com/michaelkiwanuka/",
-      "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj?si=HjDvViUxQ4WvnDPVX_XP7w",
-      "itunes": "https://music.apple.com/kh/artist/michael-kiwanuka/433457346",
-      "twitter": "https://twitter.com/calgaryfolkfest",
-      "bandcamp": null,
-      "youtube": "https://www.youtube.com/user/MichaelKiwanukaVEVO "
-    },
-    "bio": "<div class=\"wysiwyg\"><p><strong>Michael Kiwanuka will perform Thursday, July 24. \n</strong>\nMichael Kiwanuka first graced the Calgary Folk Fest stage in 2017. Eight years later, so much and so little has changed. Right after a first major electoral shift in the US and a time of sweeping populism in Europe, Kiwanuka’s <em>Love and Hate </em>record was a softly political and deeply personal exposition of selfhood in the face of a hard and difficult world. </p><p>A pandemic, a mercury prize, and five UK prime ministers later, Kiwanuka returns with <em>Small Changes</em>, new songs and a robust live performance. Kiwanuka still brings a rebel soul, but one that is even more wizened and contemplative. Small Changes represents the experience of watching yourself and your peers mold and shift around you. </p><p>Expressed in low-tempo, meditative soul and rock arrangements, the songs are engrossing. Slow pulsing rhythms give an almost trip-hop effect, even though the instrumentation is as analog as possible. His voice is the centrepiece, powerful and encompassing, but also resonant and reserved. There’s carefully prescribed space in his phrasing. Every lyric lands slowly over the course of a song, fed with the honesty and authenticity of a well-observed life.</p><p>When the world is moving faster than we can track, and the fluttering of life and politics feels out of our control, Michael Kiwanuka reminds us all we can do is find where we can make our own small changes. </p><p>-Liam Prost</p><br/></div>",
-    "shows": [
-      {
-        "startDateTime": "2025-07-24T19:45:00",
-        "endDateTime": "2025-07-24T21:00:00",
-        "startDate": "2025-07-24",
-        "endDate": "2025-07-24",
-        "startTime": "19:45:00",
-        "endTime": "21:00:00",
-        "location": "ATB Main Stage",
-        "type": "Concert",
-        "showId": "241",
-        "showName": "Michael Kiwanuka",
-        "locationId": 0
-      }
-    ]
-  },
   "montuno-west": {
     "artistId": 43,
-    "url": "https://calgaryfolkfest.com//artists/montuno-west",
+    "url": "https://calgaryfolkfest.com/artists/montuno-west",
     "slug": "montuno-west",
     "men": 0,
     "notMen": 0,
@@ -2822,6 +2851,7 @@
     "name": "Montuno West",
     "geo": "Calgary/Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/montuno-west",
       "website": "https://montunowest.com/",
       "facebook": "https://www.facebook.com/MontunoWestLatinJazz/",
       "instagram": "https://www.instagram.com/montunowest/",
@@ -2889,7 +2919,7 @@
   },
   "moontricks": {
     "artistId": 44,
-    "url": "https://calgaryfolkfest.com//artists/moontricks",
+    "url": "https://calgaryfolkfest.com/artists/moontricks",
     "slug": "moontricks",
     "men": 0,
     "notMen": 0,
@@ -2898,6 +2928,7 @@
     "name": "Moontricks",
     "geo": "Kootenays, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/moontricks",
       "website": "https://moontricksmusic.com/",
       "facebook": "https://www.facebook.com/Moontricks",
       "instagram": "https://www.instagram.com/moontricks_music",
@@ -2952,7 +2983,7 @@
   },
   "nick-shoulders": {
     "artistId": 45,
-    "url": "https://calgaryfolkfest.com//artists/nick-shoulders",
+    "url": "https://calgaryfolkfest.com/artists/nick-shoulders",
     "slug": "nick-shoulders",
     "men": 0,
     "notMen": 0,
@@ -2961,6 +2992,7 @@
     "name": "Nick Shoulders",
     "geo": "Arkansas",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/nick-shoulders",
       "website": "https://nickshoulders.com/ ",
       "facebook": "https://www.facebook.com/OKAYcrawdad",
       "instagram": "https://www.instagram.com/neckshoulders/?hl=en",
@@ -3041,7 +3073,7 @@
   },
   "ocie-elliott": {
     "artistId": 46,
-    "url": "https://calgaryfolkfest.com//artists/ocie-elliott",
+    "url": "https://calgaryfolkfest.com/artists/ocie-elliott",
     "slug": "ocie-elliott",
     "men": 0,
     "notMen": 0,
@@ -3050,6 +3082,7 @@
     "name": "Ocie Elliott",
     "geo": "Victoria, BC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/ocie-elliott",
       "website": "https://www.ocieelliott.com/",
       "facebook": "https://www.facebook.com/ocieelliottmusic/",
       "instagram": "http://instagram.com/ocieelliott",
@@ -3104,7 +3137,7 @@
   },
   "olive-klug": {
     "artistId": 47,
-    "url": "https://calgaryfolkfest.com//artists/olive-klug",
+    "url": "https://calgaryfolkfest.com/artists/olive-klug",
     "slug": "olive-klug",
     "men": 0,
     "notMen": 0,
@@ -3113,6 +3146,7 @@
     "name": "Olive Klug",
     "geo": "Portland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/olive-klug",
       "website": "https://oliveklug.com/ ",
       "facebook": "https://www.facebook.com/olivia.klugman",
       "instagram": "https://www.instagram.com/oliveklug",
@@ -3167,7 +3201,7 @@
   },
   "pahua": {
     "artistId": 48,
-    "url": "https://calgaryfolkfest.com//artists/pahua",
+    "url": "https://calgaryfolkfest.com/artists/pahua",
     "slug": "pahua",
     "men": 0,
     "notMen": 0,
@@ -3176,6 +3210,7 @@
     "name": "Pahua",
     "geo": "Mexico",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/pahua",
       "website": null,
       "facebook": "https://www.facebook.com/Pahuamusic/",
       "instagram": "https://www.instagram.com/pahuamusic/",
@@ -3243,7 +3278,7 @@
   },
   "patrick-watson": {
     "artistId": 49,
-    "url": "https://calgaryfolkfest.com//artists/patrick-watson",
+    "url": "https://calgaryfolkfest.com/artists/patrick-watson",
     "slug": "patrick-watson",
     "men": 0,
     "notMen": 0,
@@ -3252,6 +3287,7 @@
     "name": "Patrick Watson",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/patrick-watson",
       "website": "http://www.patrickwatson.net/",
       "facebook": "https://www.facebook.com/patrickwatsonofficial/",
       "instagram": "https://www.instagram.com/patrickwatsonofficial/",
@@ -3280,7 +3316,7 @@
   },
   "ruby-waters": {
     "artistId": 50,
-    "url": "https://calgaryfolkfest.com//artists/ruby-waters",
+    "url": "https://calgaryfolkfest.com/artists/ruby-waters",
     "slug": "ruby-waters",
     "men": 0,
     "notMen": 0,
@@ -3289,6 +3325,7 @@
     "name": "Ruby Waters",
     "geo": "Shelburne, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/ruby-waters",
       "website": "https://rubywatersmusic.com/",
       "facebook": "http://facebook.com/rubywatersmusic",
       "instagram": "http://instagram.com/rubywatersmusic",
@@ -3330,7 +3367,7 @@
   },
   "shaina-hayes": {
     "artistId": 51,
-    "url": "https://calgaryfolkfest.com//artists/shaina-hayes",
+    "url": "https://calgaryfolkfest.com/artists/shaina-hayes",
     "slug": "shaina-hayes",
     "men": 0,
     "notMen": 0,
@@ -3339,6 +3376,7 @@
     "name": "Shaina Hayes",
     "geo": "Montreal, QC",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/shaina-hayes",
       "website": "https://www.shainahayes.com/",
       "facebook": "https://www.facebook.com/profile.php?id=100085313060278",
       "instagram": "https://instagram.comhttps//www.instagram.com/shainahayes.music",
@@ -3406,7 +3444,7 @@
   },
   "sierra-ferrell": {
     "artistId": 52,
-    "url": "https://calgaryfolkfest.com//artists/sierra-ferrell",
+    "url": "https://calgaryfolkfest.com/artists/sierra-ferrell",
     "slug": "sierra-ferrell",
     "men": 0,
     "notMen": 0,
@@ -3415,6 +3453,7 @@
     "name": "Sierra Ferrell",
     "geo": "Charleston, WV",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/sierra-ferrell",
       "website": "https://www.sierraferrellmusic.com/music",
       "facebook": "https://www.facebook.com/sierraferrellmusic/",
       "instagram": "https://www.instagram.com/sierraelizabethferrell/",
@@ -3443,7 +3482,7 @@
   },
   "skinny-dyck": {
     "artistId": 53,
-    "url": "https://calgaryfolkfest.com//artists/skinny-dyck",
+    "url": "https://calgaryfolkfest.com/artists/skinny-dyck",
     "slug": "skinny-dyck",
     "men": 0,
     "notMen": 0,
@@ -3452,6 +3491,7 @@
     "name": "Skinny Dyck",
     "geo": "Lethbridge, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/skinny-dyck",
       "website": "https://www.skinnydyck.com/",
       "facebook": "https://www.facebook.com/skinnydyck/",
       "instagram": "https://www.instagram.com/skinnydyck/",
@@ -3519,7 +3559,7 @@
   },
   "st-arnaud": {
     "artistId": 54,
-    "url": "https://calgaryfolkfest.com//artists/st-arnaud",
+    "url": "https://calgaryfolkfest.com/artists/st-arnaud",
     "slug": "st-arnaud",
     "men": 0,
     "notMen": 0,
@@ -3528,6 +3568,7 @@
     "name": "St.Arnaud",
     "geo": "Edmonton, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/st-arnaud",
       "website": "https://www.starnaudband.com/about-1",
       "facebook": "https://www.facebook.com/StArnaudBand/",
       "instagram": "https://www.instagram.com/starnaudband/",
@@ -3595,7 +3636,7 @@
   },
   "starpainter": {
     "artistId": 55,
-    "url": "https://calgaryfolkfest.com//artists/starpainter",
+    "url": "https://calgaryfolkfest.com/artists/starpainter",
     "slug": "starpainter",
     "men": 0,
     "notMen": 0,
@@ -3604,6 +3645,7 @@
     "name": "Starpainter",
     "geo": "Lethbridge, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/starpainter",
       "website": "https://www.starpainter.ca",
       "facebook": "https://www.facebook.com/StarpainterBand",
       "instagram": "https://www.instagram.com/starpainterband/",
@@ -3671,7 +3713,7 @@
   },
   "steve-dawson-and-the-hooded-mergansers": {
     "artistId": 56,
-    "url": "https://calgaryfolkfest.com//artists/steve-dawson-and-the-hooded-mergansers",
+    "url": "https://calgaryfolkfest.com/artists/steve-dawson-and-the-hooded-mergansers",
     "slug": "steve-dawson-and-the-hooded-mergansers",
     "men": 0,
     "notMen": 0,
@@ -3680,6 +3722,7 @@
     "name": "Steve Dawson and The Hooded Mergansers",
     "geo": "Nashville",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/steve-dawson-and-the-hooded-mergansers",
       "website": "https://www.stevedawson.ca/",
       "facebook": "https://www.facebook.com/stevedawsonguitar",
       "instagram": "http://instagram.com/stevedawsonmusic",
@@ -3747,7 +3790,7 @@
   },
   "steve-earle-and-reckless-kelly": {
     "artistId": 57,
-    "url": "https://calgaryfolkfest.com//artists/steve-earle-and-reckless-kelly",
+    "url": "https://calgaryfolkfest.com/artists/steve-earle-and-reckless-kelly",
     "slug": "steve-earle-and-reckless-kelly",
     "men": 0,
     "notMen": 0,
@@ -3756,6 +3799,7 @@
     "name": "Steve Earle and Reckless Kelly",
     "geo": "Texas, New York",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/steve-earle-and-reckless-kelly",
       "website": "https://www.steveearle.com/",
       "facebook": "https://www.facebook.com/SteveEarleMusic/",
       "instagram": "https://www.instagram.com/steveearle/",
@@ -3784,7 +3828,7 @@
   },
   "susan-o-neill": {
     "artistId": 58,
-    "url": "https://calgaryfolkfest.com//artists/susan-o-neill",
+    "url": "https://calgaryfolkfest.com/artists/susan-o-neill",
     "slug": "susan-o-neill",
     "men": 0,
     "notMen": 0,
@@ -3793,6 +3837,7 @@
     "name": "Susan O'Neill",
     "geo": "Ireland",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/susan-o-neill",
       "website": "https://susanoneill.ie/",
       "facebook": "https://www.facebook.com/susanoneillmusic",
       "instagram": "https://www.instagram.com/susanoneillmusic/",
@@ -3860,7 +3905,7 @@
   },
   "tall-tall-trees": {
     "artistId": 59,
-    "url": "https://calgaryfolkfest.com//artists/tall-tall-trees",
+    "url": "https://calgaryfolkfest.com/artists/tall-tall-trees",
     "slug": "tall-tall-trees",
     "men": 0,
     "notMen": 0,
@@ -3869,6 +3914,7 @@
     "name": "Tall Tall Trees",
     "geo": "Asheville",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tall-tall-trees",
       "website": "https://talltalltrees.com/ ",
       "facebook": "http://facebook.com/talltalltreees",
       "instagram": "https://www.instagram.com/talltalltrees/",
@@ -3936,7 +3982,7 @@
   },
   "tamar-ilana-and-ventanas": {
     "artistId": 60,
-    "url": "https://calgaryfolkfest.com//artists/tamar-ilana-and-ventanas",
+    "url": "https://calgaryfolkfest.com/artists/tamar-ilana-and-ventanas",
     "slug": "tamar-ilana-and-ventanas",
     "men": 0,
     "notMen": 0,
@@ -3945,6 +3991,7 @@
     "name": "Tamar Ilana & Ventanas",
     "geo": "Toronto, ON",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tamar-ilana-and-ventanas",
       "website": "https://www.ventanasmusic.com/",
       "facebook": "https://www.facebook.com/ventanasmusic",
       "instagram": "http://instagram.com/ventanasmusic",
@@ -4012,7 +4059,7 @@
   },
   "tim-williams": {
     "artistId": 61,
-    "url": "https://calgaryfolkfest.com//artists/tim-williams",
+    "url": "https://calgaryfolkfest.com/artists/tim-williams",
     "slug": "tim-williams",
     "men": 0,
     "notMen": 0,
@@ -4021,6 +4068,7 @@
     "name": "Tim Williams",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tim-williams",
       "website": "https://timwilliamsblues.ca/",
       "facebook": "https://www.facebook.com/TimWilliamsBlues",
       "instagram": "https://www.instagram.com/timwilliamsblues/",
@@ -4088,7 +4136,7 @@
   },
   "tinge": {
     "artistId": 62,
-    "url": "https://calgaryfolkfest.com//artists/tinge",
+    "url": "https://calgaryfolkfest.com/artists/tinge",
     "slug": "tinge",
     "men": 0,
     "notMen": 0,
@@ -4097,6 +4145,7 @@
     "name": "Tinge",
     "geo": "Winnipeg",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tinge",
       "website": null,
       "facebook": "https://www.facebook.com/tingetheband/",
       "instagram": "https://www.instagram.com/tingetheband/",
@@ -4164,7 +4213,7 @@
   },
   "tribe-artist-society": {
     "artistId": 63,
-    "url": "https://calgaryfolkfest.com//artists/tribe-artist-society",
+    "url": "https://calgaryfolkfest.com/artists/tribe-artist-society",
     "slug": "tribe-artist-society",
     "men": 0,
     "notMen": 0,
@@ -4173,6 +4222,7 @@
     "name": "Tribe Artist Society",
     "geo": "Calgary, AB",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/tribe-artist-society",
       "website": "https://tribeartistsociety.com/",
       "facebook": "https://www.facebook.com/calgaryfolkfest/",
       "instagram": "https://www.instagram.com/tribeartistsociety/",
@@ -4214,7 +4264,7 @@
   },
   "viik": {
     "artistId": 64,
-    "url": "https://calgaryfolkfest.com//artists/viik",
+    "url": "https://calgaryfolkfest.com/artists/viik",
     "slug": "viik",
     "men": 0,
     "notMen": 0,
@@ -4223,6 +4273,7 @@
     "name": "VÍÍK",
     "geo": "Denmark",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/viik",
       "website": "https://viikmusic.com/",
       "facebook": "https://www.facebook.com/viikband/",
       "instagram": "https://www.instagram.com/viikband/",
@@ -4290,7 +4341,7 @@
   },
   "willi-carlisle": {
     "artistId": 65,
-    "url": "https://calgaryfolkfest.com//artists/willi-carlisle",
+    "url": "https://calgaryfolkfest.com/artists/willi-carlisle",
     "slug": "willi-carlisle",
     "men": 0,
     "notMen": 0,
@@ -4299,6 +4350,7 @@
     "name": "Willi Carlisle",
     "geo": "Kansas",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/willi-carlisle",
       "website": "https://www.willicarlisle.com/ ",
       "facebook": "https://www.facebook.com/willicarlislemusic",
       "instagram": "https://instagram.com/willicarlisle/",
@@ -4353,7 +4405,7 @@
   },
   "yasmin-williams": {
     "artistId": 66,
-    "url": "https://calgaryfolkfest.com//artists/yasmin-williams",
+    "url": "https://calgaryfolkfest.com/artists/yasmin-williams",
     "slug": "yasmin-williams",
     "men": 0,
     "notMen": 0,
@@ -4362,6 +4414,7 @@
     "name": "Yasmin Williams",
     "geo": "Woodbridge, VA",
     "socials": {
+      "fest": "https://calgaryfolkfest.com/artists/yasmin-williams",
       "website": "https://www.yasminwilliamsmusic.com/",
       "facebook": "https://www.facebook.com/yasminmwilliams/",
       "instagram": "https://www.instagram.com/guitar.yaz/",

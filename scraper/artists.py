@@ -56,7 +56,7 @@ def scrape_artist_page(url, artistId):
 
     data = {
         "artistId": artistId,
-        "url": url.replace("folk-fest/..", ""),
+        "url": url.replace("/folk-fest/..", ""),
         "slug": slug,
         "men": 0,
         "notMen": 0,
@@ -65,6 +65,7 @@ def scrape_artist_page(url, artistId):
         "name": soup.select_one("div.artist-page-headline h2").get_text(strip=True) if soup.select_one("div.artist-page-headline h2") else None,
         "geo": soup.select_one("div.artist-page-headline p").get_text(strip=True) if soup.select_one("div.artist-page-headline p") else None,
         "socials": {
+            "fest": url.replace("/folk-fest/..", ""),
             "website": extract_social_link(soup, "website"),
             "facebook": extract_social_link(soup, "facebook"),
             "instagram": extract_social_link(soup, "instagram"),
