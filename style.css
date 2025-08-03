@@ -944,7 +944,7 @@ div.artistRow > a:first-of-type > .socialLink {
 
 img.socialLink.fest {
 	height: 29px;
-	width: 72px; /* EFMF ONLY */
+/*	width: 72px; /* EFMF ONLY */
 }
 	
 a.socialLink:hover {
